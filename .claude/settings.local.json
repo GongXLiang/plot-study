@@ -12,7 +12,9 @@
       "PowerShell(Rename-Item *)",
       "Bash(git mv *)",
       "Bash(git merge *)",
-      "Bash(python *)"
+      "Bash(python *)",
+      "Bash(command -v graphify)",
+      "Bash(graphify claude *)"
     ]
   }
 }

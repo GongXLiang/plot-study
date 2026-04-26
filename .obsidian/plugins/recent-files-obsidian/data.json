@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "GRAPH_REPORT",
+      "path": "graphify-out/GRAPH_REPORT.md"
+    },
+    {
+      "basename": "_CartopyFormatter",
+      "path": "graphify-out/wiki/_CartopyFormatter.md"
+    },
+    {
+      "basename": "GRAPH_REPORT",
+      "path": "GRAPH_REPORT.md"
+    },
+    {
+      "basename": "Cartesian_Axes_&_Config",
+      "path": "wiki/Cartesian_Axes_&_Config.md"
+    },
+    {
       "basename": "ContinuousColormap",
       "path": "wiki/ContinuousColormap.md"
     },
@@ -47,10 +63,6 @@
     {
       "basename": "AGENTS",
       "path": "AGENTS.md"
-    },
-    {
-      "basename": "GRAPH_REPORT",
-      "path": "graphify-out/GRAPH_REPORT.md"
     },
     {
       "basename": "Distinct Impacts of Increased Atlantic and Pacific Ocean Heat Transport on Arctic Ocean Warming and Sea Ice Decline",
@@ -187,10 +199,6 @@
     {
       "basename": "Recent emergence of Arctic atlantification dominated by climate warming",
       "path": "raw/reference/Recent emergence of Arctic atlantification dominated by climate warming.md"
-    },
-    {
-      "basename": "Spatial and Temporal Variability of Atlantic Water in the Arctic From 40 Years of Observations",
-      "path": "raw/reference/Spatial and Temporal Variability of Atlantic Water in the Arctic From 40 Years of Observations.md"
     }
   ],
   "omittedPaths": [],

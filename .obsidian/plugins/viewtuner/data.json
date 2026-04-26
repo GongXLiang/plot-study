@@ -645,9 +645,16 @@
         "os": "Windows 10/11",
         "activatedAt": "2026-04-26T10:36:50.003Z",
         "lastUsed": "2026-04-26T10:36:50.003Z"
+      },
+      {
+        "id": "000000000ff83626",
+        "name": "Windows | plot-study",
+        "os": "Windows 10/11",
+        "activatedAt": "2026-04-26T10:42:08.391Z",
+        "lastUsed": "2026-04-26T10:42:08.391Z"
       }
     ],
-    "currentDeviceId": "000000006066a4ac"
+    "currentDeviceId": "000000000ff83626"
   },
   "timeScene": {
     "enableTimeScene": false,
