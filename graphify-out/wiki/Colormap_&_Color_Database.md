@@ -5,9 +5,9 @@
 ## Key Concepts
 
 - **colors.py** (13 connections) — `/home/runner/work/plot-study/plot-study/raw/UltraPlot/ultraplot/colors.py`
-- **_Colormap** (4 connections) — `/home/runner/work/plot-study/plot-study/raw/UltraPlot/ultraplot/colors.py`
+- **[[_Colormap]]** (4 connections) — `/home/runner/work/plot-study/plot-study/raw/UltraPlot/ultraplot/colors.py`
 - **ColorDatabase** (3 connections) — `/home/runner/work/plot-study/plot-study/raw/UltraPlot/ultraplot/colors.py`
-- **ContinuousColormap** (3 connections) — `/home/runner/work/plot-study/plot-study/raw/UltraPlot/ultraplot/colors.py`
+- **[[ContinuousColormap]]** (3 connections) — `/home/runner/work/plot-study/plot-study/raw/UltraPlot/ultraplot/colors.py`
 - **Configurator** (3 connections) — `/home/runner/work/plot-study/plot-study/raw/UltraPlot/ultraplot/config.py`
 - **dict** (3 connections)
 - **_ColorCache** (2 connections) — `/home/runner/work/plot-study/plot-study/raw/UltraPlot/ultraplot/colors.py`

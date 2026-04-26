@@ -10,7 +10,7 @@
 ### inherits
 - object `EXTRACTED`
 - [[ContinuousColormap]] `EXTRACTED`
-- [[_Colormap]] `EXTRACTED`
+- DiscreteColormap `EXTRACTED`
 
 ---
 

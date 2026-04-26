@@ -6,10 +6,10 @@
 
 - **geo.py** (17 connections) — `/home/runner/work/plot-study/plot-study/raw/UltraPlot/ultraplot/axes/geo.py`
 - **object** (6 connections)
-- **_GeoAxis** (4 connections) — `/home/runner/work/plot-study/plot-study/raw/UltraPlot/ultraplot/axes/geo.py`
-- **_GridlinerAdapter** (4 connections) — `/home/runner/work/plot-study/plot-study/raw/UltraPlot/ultraplot/axes/geo.py`
-- **GeoAxes** (3 connections) — `/home/runner/work/plot-study/plot-study/raw/UltraPlot/ultraplot/axes/geo.py`
-- **_GeoLabel** (3 connections) — `/home/runner/work/plot-study/plot-study/raw/UltraPlot/ultraplot/axes/geo.py`
+- **[[_GeoAxis]]** (4 connections) — `/home/runner/work/plot-study/plot-study/raw/UltraPlot/ultraplot/axes/geo.py`
+- **[[_GridlinerAdapter]]** (4 connections) — `/home/runner/work/plot-study/plot-study/raw/UltraPlot/ultraplot/axes/geo.py`
+- **[[GeoAxes]]** (3 connections) — `/home/runner/work/plot-study/plot-study/raw/UltraPlot/ultraplot/axes/geo.py`
+- **[[_GeoLabel]]** (3 connections) — `/home/runner/work/plot-study/plot-study/raw/UltraPlot/ultraplot/axes/geo.py`
 - **_BasemapAxes** (2 connections) — `/home/runner/work/plot-study/plot-study/raw/UltraPlot/ultraplot/axes/geo.py`
 - **_BasemapGridlinerAdapter** (2 connections) — `/home/runner/work/plot-study/plot-study/raw/UltraPlot/ultraplot/axes/geo.py`
 - **_CartopyAxes** (2 connections) — `/home/runner/work/plot-study/plot-study/raw/UltraPlot/ultraplot/axes/geo.py`

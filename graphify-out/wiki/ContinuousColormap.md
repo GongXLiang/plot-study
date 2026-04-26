@@ -9,7 +9,7 @@
 
 ### inherits
 - [[_Colormap]] `EXTRACTED`
-- [[_Colormap]] `EXTRACTED`
+- PerceptualColormap `EXTRACTED`
 
 ---
 

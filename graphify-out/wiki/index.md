@@ -11,13 +11,13 @@
 
 - [[Scale_&_Transform_System]] — 24 nodes
 - [[Tick_Formatters_&_Locators]] — 21 nodes
-- Geographic Axes (Cartopy/Basemap) — 16 nodes
+- [[Geographic_Axes_(Cartopy-Basemap)]] — 16 nodes
 - [[Projection_Definitions]] — 15 nodes
 - [[Colormap_&_Color_Database]] — 14 nodes
 - [[Core_API_&_Entry_Points]] — 13 nodes
 - [[Legend_System]] — 9 nodes
 - [[Cartesian_Axes_&_Config]] — 8 nodes
-- Polar / 3D / Shared Axes — 8 nodes
+- [[Polar_-_3D_-_Shared_Axes]] — 8 nodes
 - [[GridSpec_&_Layout]] — 6 nodes
 - [[Colorbar_&_Layout_Solver]] — 6 nodes
 - [[Base_Axes]] — 5 nodes

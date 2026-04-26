@@ -5,7 +5,7 @@
 ## Key Concepts
 
 - **scale.py** (24 connections) — `/home/runner/work/plot-study/plot-study/raw/UltraPlot/ultraplot/scale.py`
-- **_Scale** (13 connections) — `/home/runner/work/plot-study/plot-study/raw/UltraPlot/ultraplot/scale.py`
+- **[[_Scale]]** (13 connections) — `/home/runner/work/plot-study/plot-study/raw/UltraPlot/ultraplot/scale.py`
 - **CutoffScale** (2 connections) — `/home/runner/work/plot-study/plot-study/raw/UltraPlot/ultraplot/scale.py`
 - **ExpScale** (2 connections) — `/home/runner/work/plot-study/plot-study/raw/UltraPlot/ultraplot/scale.py`
 - **FuncScale** (2 connections) — `/home/runner/work/plot-study/plot-study/raw/UltraPlot/ultraplot/scale.py`

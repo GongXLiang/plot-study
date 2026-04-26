@@ -9,8 +9,8 @@
 
 ### inherits
 - Protocol `EXTRACTED`
-- [[_GridlinerAdapter]] `EXTRACTED`
-- [[_GridlinerAdapter]] `EXTRACTED`
+- _CartopyGridlinerAdapter `EXTRACTED`
+- _BasemapGridlinerAdapter `EXTRACTED`
 
 ---
 

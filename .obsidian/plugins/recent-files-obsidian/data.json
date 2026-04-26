@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "_CartopyFormatter",
+      "path": "graphify-out/wiki/_CartopyFormatter.md"
+    },
+    {
+      "basename": "Core_API_&_Entry_Points",
+      "path": "graphify-out/wiki/Core_API_&_Entry_Points.md"
+    },
+    {
       "basename": "GRAPH_REPORT",
       "path": "graphify-out/GRAPH_REPORT.md"
     },
     {
-      "basename": "_CartopyFormatter",
-      "path": "graphify-out/wiki/_CartopyFormatter.md"
+      "basename": "Colormap_&_Color_Database",
+      "path": "graphify-out/wiki/Colormap_&_Color_Database.md"
+    },
+    {
+      "basename": "_GeoAxis",
+      "path": "graphify-out/wiki/_GeoAxis.md"
+    },
+    {
+      "basename": "_GridlinerAdapter",
+      "path": "graphify-out/wiki/_GridlinerAdapter.md"
+    },
+    {
+      "basename": "_Colormap",
+      "path": "graphify-out/wiki/_Colormap.md"
+    },
+    {
+      "basename": "_GeoLabel",
+      "path": "graphify-out/wiki/_GeoLabel.md"
+    },
+    {
+      "basename": "Cartesian_Axes_&_Config",
+      "path": "graphify-out/wiki/Cartesian_Axes_&_Config.md"
+    },
+    {
+      "basename": "Base_Axes",
+      "path": "graphify-out/wiki/Base_Axes.md"
+    },
+    {
+      "basename": "_Scale",
+      "path": "graphify-out/wiki/_Scale.md"
     },
     {
       "basename": "GRAPH_REPORT",
@@ -163,42 +199,6 @@
     {
       "basename": "Intensification of the Atlantic Water Supply to the Arctic Ocean Through Fram Strait Induced by Arctic Sea Ice Decline",
       "path": "raw/reference/Intensification of the Atlantic Water Supply to the Arctic Ocean Through Fram Strait Induced by Arctic Sea Ice Decline.md"
-    },
-    {
-      "basename": "Arctic Halocline and Borealization",
-      "path": "graphify-out/wiki/Arctic Halocline and Borealization.md"
-    },
-    {
-      "basename": "Borealization of the Arctic Ocean in Response to Anomalous Advection From Sub-Arctic Seas--Part2",
-      "path": "raw/reference/Borealization of the Arctic Ocean in Response to Anomalous Advection From Sub-Arctic Seas--Part2.md"
-    },
-    {
-      "basename": "Atlantification drives recent strengthening of the Arctic overturning circulation",
-      "path": "raw/reference/Atlantification drives recent strengthening of the Arctic overturning circulation.md"
-    },
-    {
-      "basename": "Circulation Timescales and Pathways of Atlantic Water in the Canada Basin Insights From Transient Tracers 129I and 236U",
-      "path": "raw/reference/Circulation Timescales and Pathways of Atlantic Water in the Canada Basin Insights From Transient Tracers 129I and 236U.md"
-    },
-    {
-      "basename": "Landfast ice in the Kara Sea stabilizes the Arctic halocline and may slow down Atlantification of the Eurasian Basin - Communications Earth & Environment",
-      "path": "raw/reference/Landfast ice in the Kara Sea stabilizes the Arctic halocline and may slow down Atlantification of the Eurasian Basin - Communications Earth & Environment.md"
-    },
-    {
-      "basename": "Circulation in the Arctic Ocean：Results from a high-resolution coupled ice-sea nested Global-FVCOM and Arctic-FVCOM system--Part1",
-      "path": "raw/reference/Circulation in the Arctic Ocean：Results from a high-resolution coupled ice-sea nested Global-FVCOM and Arctic-FVCOM system--Part1.md"
-    },
-    {
-      "basename": "Atlantic Water Heat Transport Variability in the 20th Century Arctic Ocean From a Global Ocean Model and Observations--Part2",
-      "path": "raw/reference/Atlantic Water Heat Transport Variability in the 20th Century Arctic Ocean From a Global Ocean Model and Observations--Part2.md"
-    },
-    {
-      "basename": "Physical manifestations and ecological implications of Arctic Atlantification - Nature Reviews Earth & Environment 1",
-      "path": "raw/reference/Physical manifestations and ecological implications of Arctic Atlantification - Nature Reviews Earth & Environment 1.md"
-    },
-    {
-      "basename": "Recent emergence of Arctic atlantification dominated by climate warming",
-      "path": "raw/reference/Recent emergence of Arctic atlantification dominated by climate warming.md"
     }
   ],
   "omittedPaths": [],

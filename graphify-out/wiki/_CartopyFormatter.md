@@ -9,9 +9,9 @@
 
 ### inherits
 - object `EXTRACTED`
+- DegreeFormatter `EXTRACTED`
 - [[LongitudeFormatter]] `EXTRACTED`
 - [[LatitudeFormatter]] `EXTRACTED`
-- DegreeFormatter `EXTRACTED`
 
 ---
 

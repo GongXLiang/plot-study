@@ -9,7 +9,6 @@
 
 ### inherits
 - [[_CartopyFormatter]] `EXTRACTED`
-- [[LongitudeFormatter]] `EXTRACTED`
 
 ---
 

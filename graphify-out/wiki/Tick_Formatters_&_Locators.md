@@ -5,9 +5,9 @@
 ## Key Concepts
 
 - **ticker.py** (21 connections) — `/home/runner/work/plot-study/plot-study/raw/UltraPlot/ultraplot/ticker.py`
-- **_CartopyFormatter** (5 connections) — `/home/runner/work/plot-study/plot-study/raw/UltraPlot/ultraplot/ticker.py`
-- **LatitudeFormatter** (4 connections) — `/home/runner/work/plot-study/plot-study/raw/UltraPlot/ultraplot/ticker.py`
-- **LongitudeFormatter** (4 connections) — `/home/runner/work/plot-study/plot-study/raw/UltraPlot/ultraplot/ticker.py`
+- **[[_CartopyFormatter]]** (5 connections) — `/home/runner/work/plot-study/plot-study/raw/UltraPlot/ultraplot/ticker.py`
+- **[[LatitudeFormatter]]** (4 connections) — `/home/runner/work/plot-study/plot-study/raw/UltraPlot/ultraplot/ticker.py`
+- **[[LongitudeFormatter]]** (4 connections) — `/home/runner/work/plot-study/plot-study/raw/UltraPlot/ultraplot/ticker.py`
 - **DegreeFormatter** (3 connections) — `/home/runner/work/plot-study/plot-study/raw/UltraPlot/ultraplot/ticker.py`
 - **DegreeLocator** (3 connections) — `/home/runner/work/plot-study/plot-study/raw/UltraPlot/ultraplot/ticker.py`
 - **LatitudeLocator** (2 connections) — `/home/runner/work/plot-study/plot-study/raw/UltraPlot/ultraplot/ticker.py`

@@ -5,21 +5,21 @@
 ## Connections by Relation
 
 ### contains
-- [[_Scale]] `EXTRACTED`
+- scale.py `EXTRACTED`
 
 ### inherits
 - object `EXTRACTED`
-- [[_Scale]] `EXTRACTED`
-- [[_Scale]] `EXTRACTED`
-- [[_Scale]] `EXTRACTED`
-- [[_Scale]] `EXTRACTED`
-- [[_Scale]] `EXTRACTED`
-- [[_Scale]] `EXTRACTED`
-- [[_Scale]] `EXTRACTED`
-- [[_Scale]] `EXTRACTED`
-- [[_Scale]] `EXTRACTED`
-- [[_Scale]] `EXTRACTED`
-- [[_Scale]] `EXTRACTED`
+- LinearScale `EXTRACTED`
+- LogitScale `EXTRACTED`
+- LogScale `EXTRACTED`
+- SymmetricalLogScale `EXTRACTED`
+- FuncScale `EXTRACTED`
+- PowerScale `EXTRACTED`
+- ExpScale `EXTRACTED`
+- MercatorLatitudeScale `EXTRACTED`
+- SineLatitudeScale `EXTRACTED`
+- CutoffScale `EXTRACTED`
+- InverseScale `EXTRACTED`
 
 ---
 

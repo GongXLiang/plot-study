@@ -33,13 +33,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "graphify-out/GRAPH_REPORT.md",
+                "file": "graphify-out/wiki/_CartopyFormatter.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "GRAPH_REPORT"
+              "title": "_CartopyFormatter"
             }
           },
           {
@@ -250,7 +250,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 592.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,6 +269,18 @@
   },
   "active": "539495baf2a37a62",
   "lastOpenFiles": [
+    "fix_wiki2.py",
+    "graphify-out/wiki/Core_API_&_Entry_Points.md",
+    "fix_wiki.py",
+    "graphify-out/GRAPH_REPORT.md",
+    "graphify-out/wiki/Colormap_&_Color_Database.md",
+    "graphify-out/wiki/_GeoAxis.md",
+    "graphify-out/wiki/_GridlinerAdapter.md",
+    "graphify-out/wiki/_Colormap.md",
+    "graphify-out/wiki/_GeoLabel.md",
+    "graphify-out/wiki/Cartesian_Axes_&_Config.md",
+    "graphify-out/wiki/Base_Axes.md",
+    "graphify-out/wiki/_Scale.md",
     "graphify-out/wiki/_CartopyFormatter.md",
     "wiki/Cartesian_Axes_&_Config.md",
     "wiki/ContinuousColormap.md",
@@ -295,7 +307,6 @@
     "paper/output/FS_AW_core_optimized/mooring_wsc_core_monthly.csv",
     "raw/One more step toward a warmer Arctic.md",
     "paper/output/FS_AW_core_optimized",
-    "paper/__pycache__/提取优化.cpython-312.pyc",
     "paper/output/FS_AW_core/compare_mooring_vs_reanalysis_awct_取断面最大值.png",
     "paper/output/FS_AW_core/pulse_figures/fs_aw_core_pulse_3panel.png",
     "paper/output/FS_AW_core/compare_mooring_vs_reanalysis_awct.png",
@@ -304,17 +315,6 @@
     "paper/output/FS_AW_core/compare_mooring_vs_reanalysis_awct_2℃.png",
     "paper/output/FS_AW_core/compare_mooring_vs_reanalysis_awct_test1.png",
     "AGENTS.md",
-    "graphify-out/GRAPH_REPORT.md",
-    "_COMMUNITY_Community 0.md",
-    "学术论文/巩新亮-学术论文/FS断面AWCT时序图_绘图技术规范.md",
-    "raw/reference/Distinct Impacts of Increased Atlantic and Pacific Ocean Heat Transport on Arctic Ocean Warming and Sea Ice Decline.md",
-    "raw/reference/Freshwater transport variation through Fram and Davis Strait influenced by atmospheric circulation.md",
-    "raw/reference/Greater role for Atlantic inflows on sea-ice loss in the Eurasian Basin of the Arctic Ocean.md",
-    "学术论文/巩新亮-学术论文/学术论文写作思路.md",
-    "CLAUDE.md",
-    "custom heading colors --test.md",
-    "学术论文/巩新亮-学术论文/full.md",
-    "学术论文/巩新亮-学术论文/之前版本/full.md",
     "graphify-out/obsidian/graph.canvas",
     "test/未命名.canvas"
   ]

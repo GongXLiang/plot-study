@@ -1,0 +1,23 @@
+{
+  "id": "conv-1777200345180-lf5zqi5k1",
+  "providerId": "claude",
+  "title": "Fix broken double bracket links in wiki files",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777200345184,
+  "updatedAt": 1777200734154,
+  "lastResponseAt": 1777200734154,
+  "sessionId": "0f9444f1-1638-4c03-9db9-c16f51a95e48",
+  "providerState": {
+    "providerSessionId": "0f9444f1-1638-4c03-9db9-c16f51a95e48"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 96252,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 96252,
+    "percentage": 48,
+    "contextWindowIsAuthoritative": true
+  }
+}
