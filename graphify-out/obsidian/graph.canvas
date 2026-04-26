@@ -1,2631 +1,363 @@
 {
-  "nodes": [
-    {
-      "id": "g0",
-      "type": "group",
-      "label": "Scale & Transform System",
-      "x": 0,
-      "y": 0,
-      "width": 1100,
-      "height": 920,
-      "color": "1"
-    },
-    {
-      "id": "n_scale_cutoffscale",
-      "type": "file",
-      "file": "CutoffScale.md",
-      "x": 20,
-      "y": 80,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_scale_cutofftransform",
-      "type": "file",
-      "file": "CutoffTransform.md",
-      "x": 220,
-      "y": 80,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_scale_expscale",
-      "type": "file",
-      "file": "ExpScale.md",
-      "x": 420,
-      "y": 80,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_scale_exptransform",
-      "type": "file",
-      "file": "ExpTransform.md",
-      "x": 20,
-      "y": 160,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_scale_funcscale",
-      "type": "file",
-      "file": "FuncScale.md",
-      "x": 220,
-      "y": 160,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_scale_functransform",
-      "type": "file",
-      "file": "FuncTransform.md",
-      "x": 420,
-      "y": 160,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_scale_inversescale",
-      "type": "file",
-      "file": "InverseScale.md",
-      "x": 20,
-      "y": 240,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_scale_inversetransform",
-      "type": "file",
-      "file": "InverseTransform.md",
-      "x": 220,
-      "y": 240,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_scale_invertedexptransform",
-      "type": "file",
-      "file": "InvertedExpTransform.md",
-      "x": 420,
-      "y": 240,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_scale_invertedmercatorlatitudetransform",
-      "type": "file",
-      "file": "InvertedMercatorLatitudeTransform.md",
-      "x": 20,
-      "y": 320,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_scale_invertedpowertransform",
-      "type": "file",
-      "file": "InvertedPowerTransform.md",
-      "x": 220,
-      "y": 320,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_scale_invertedsinelatitudetransform",
-      "type": "file",
-      "file": "InvertedSineLatitudeTransform.md",
-      "x": 420,
-      "y": 320,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_scale_linearscale",
-      "type": "file",
-      "file": "LinearScale.md",
-      "x": 20,
-      "y": 400,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_scale_logscale",
-      "type": "file",
-      "file": "LogScale.md",
-      "x": 220,
-      "y": 400,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_scale_logitscale",
-      "type": "file",
-      "file": "LogitScale.md",
-      "x": 420,
-      "y": 400,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_scale_mercatorlatitudescale",
-      "type": "file",
-      "file": "MercatorLatitudeScale.md",
-      "x": 20,
-      "y": 480,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_scale_mercatorlatitudetransform",
-      "type": "file",
-      "file": "MercatorLatitudeTransform.md",
-      "x": 220,
-      "y": 480,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_scale_powerscale",
-      "type": "file",
-      "file": "PowerScale.md",
-      "x": 420,
-      "y": 480,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_scale_powertransform",
-      "type": "file",
-      "file": "PowerTransform.md",
-      "x": 20,
-      "y": 560,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_scale_sinelatitudescale",
-      "type": "file",
-      "file": "SineLatitudeScale.md",
-      "x": 220,
-      "y": 560,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_scale_sinelatitudetransform",
-      "type": "file",
-      "file": "SineLatitudeTransform.md",
-      "x": 420,
-      "y": 560,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_scale_symmetricallogscale",
-      "type": "file",
-      "file": "SymmetricalLogScale.md",
-      "x": 20,
-      "y": 640,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_scale_scale",
-      "type": "file",
-      "file": "_Scale.md",
-      "x": 220,
-      "y": 640,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py",
-      "type": "file",
-      "file": "scale.py.md",
-      "x": 420,
-      "y": 640,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "g1",
-      "type": "group",
-      "label": "Tick Formatters & Locators",
-      "x": 1180,
-      "y": 0,
-      "width": 1100,
-      "height": 820,
-      "color": "2"
-    },
-    {
-      "id": "n_ticker_autocfdatetimeformatter",
-      "type": "file",
-      "file": "AutoCFDatetimeFormatter.md",
-      "x": 1200,
-      "y": 80,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_ticker_autocfdatetimelocator",
-      "type": "file",
-      "file": "AutoCFDatetimeLocator.md",
-      "x": 1400,
-      "y": 80,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_ticker_autoformatter",
-      "type": "file",
-      "file": "AutoFormatter.md",
-      "x": 1600,
-      "y": 80,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_ticker_cfdatetimeformatter",
-      "type": "file",
-      "file": "CFDatetimeFormatter.md",
-      "x": 1200,
-      "y": 160,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_ticker_cftimeconverter",
-      "type": "file",
-      "file": "CFTimeConverter.md",
-      "x": 1400,
-      "y": 160,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_ticker_degreeformatter",
-      "type": "file",
-      "file": "DegreeFormatter.md",
-      "x": 1600,
-      "y": 160,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_ticker_degreelocator",
-      "type": "file",
-      "file": "DegreeLocator.md",
-      "x": 1200,
-      "y": 240,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_ticker_discretelocator",
-      "type": "file",
-      "file": "DiscreteLocator.md",
-      "x": 1400,
-      "y": 240,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_ticker_fracformatter",
-      "type": "file",
-      "file": "FracFormatter.md",
-      "x": 1600,
-      "y": 240,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_ticker_indexformatter",
-      "type": "file",
-      "file": "IndexFormatter.md",
-      "x": 1200,
-      "y": 320,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_ticker_indexlocator",
-      "type": "file",
-      "file": "IndexLocator.md",
-      "x": 1400,
-      "y": 320,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_ticker_latitudeformatter",
-      "type": "file",
-      "file": "LatitudeFormatter.md",
-      "x": 1600,
-      "y": 320,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_ticker_latitudelocator",
-      "type": "file",
-      "file": "LatitudeLocator.md",
-      "x": 1200,
-      "y": 400,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_ticker_longitudeformatter",
-      "type": "file",
-      "file": "LongitudeFormatter.md",
-      "x": 1400,
-      "y": 400,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_ticker_longitudelocator",
-      "type": "file",
-      "file": "LongitudeLocator.md",
-      "x": 1600,
-      "y": 400,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_ticker_sciformatter",
-      "type": "file",
-      "file": "SciFormatter.md",
-      "x": 1200,
-      "y": 480,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_ticker_sigfigformatter",
-      "type": "file",
-      "file": "SigFigFormatter.md",
-      "x": 1400,
-      "y": 480,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_ticker_simpleformatter",
-      "type": "file",
-      "file": "SimpleFormatter.md",
-      "x": 1600,
-      "y": 480,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_ticker_cartopyformatter",
-      "type": "file",
-      "file": "_CartopyFormatter.md",
-      "x": 1200,
-      "y": 560,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_platecarreeformatter",
-      "type": "file",
-      "file": "_PlateCarreeFormatter.md",
-      "x": 1400,
-      "y": 560,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ticker_py",
-      "type": "file",
-      "file": "ticker.py.md",
-      "x": 1600,
-      "y": 560,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "g2",
-      "type": "group",
-      "label": "Geographic Axes (Cartopy/Basemap)",
-      "x": 2360,
-      "y": 0,
-      "width": 880,
-      "height": 720,
-      "color": "3"
-    },
-    {
-      "id": "n_geo_geoaxes",
-      "type": "file",
-      "file": "GeoAxes.md",
-      "x": 2380,
-      "y": 80,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_protocol",
-      "type": "file",
-      "file": "Protocol.md",
-      "x": 2580,
-      "y": 80,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_geo_basemapaxes",
-      "type": "file",
-      "file": "_BasemapAxes.md",
-      "x": 2780,
-      "y": 80,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_geo_basemapgridlineradapter",
-      "type": "file",
-      "file": "_BasemapGridlinerAdapter.md",
-      "x": 2380,
-      "y": 160,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_geo_cartopyaxes",
-      "type": "file",
-      "file": "_CartopyAxes.md",
-      "x": 2580,
-      "y": 160,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_geo_cartopygridliner",
-      "type": "file",
-      "file": "_CartopyGridliner.md",
-      "x": 2780,
-      "y": 160,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_geo_cartopygridlineradapter",
-      "type": "file",
-      "file": "_CartopyGridlinerAdapter.md",
-      "x": 2380,
-      "y": 240,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_geo_cartopygridlinerprotocol",
-      "type": "file",
-      "file": "_CartopyGridlinerProtocol.md",
-      "x": 2580,
-      "y": 240,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_geo_cartopylabel",
-      "type": "file",
-      "file": "_CartopyLabel.md",
-      "x": 2780,
-      "y": 240,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_geo_geoaxis",
-      "type": "file",
-      "file": "_GeoAxis.md",
-      "x": 2380,
-      "y": 320,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_geo_geolabel",
-      "type": "file",
-      "file": "_GeoLabel.md",
-      "x": 2580,
-      "y": 320,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_geo_gridlineradapter",
-      "type": "file",
-      "file": "_GridlinerAdapter.md",
-      "x": 2780,
-      "y": 320,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_geo_lataxis",
-      "type": "file",
-      "file": "_LatAxis.md",
-      "x": 2380,
-      "y": 400,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_geo_lonaxis",
-      "type": "file",
-      "file": "_LonAxis.md",
-      "x": 2580,
-      "y": 400,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py",
-      "type": "file",
-      "file": "geo.py.md",
-      "x": 2780,
-      "y": 400,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_object",
-      "type": "file",
-      "file": "object.md",
-      "x": 2380,
-      "y": 480,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "g3",
-      "type": "group",
-      "label": "Projection Definitions",
-      "x": 3320,
-      "y": 0,
-      "width": 880,
-      "height": 620,
-      "color": "4"
-    },
-    {
-      "id": "n_proj_aitoff",
-      "type": "file",
-      "file": "Aitoff.md",
-      "x": 3340,
-      "y": 80,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_azimuthalequidistant",
-      "type": "file",
-      "file": "AzimuthalEquidistant.md",
-      "x": 3540,
-      "y": 80,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_gnomonic",
-      "type": "file",
-      "file": "Gnomonic.md",
-      "x": 3740,
-      "y": 80,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_proj_hammer",
-      "type": "file",
-      "file": "Hammer.md",
-      "x": 3340,
-      "y": 160,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_proj_kavrayskiyvii",
-      "type": "file",
-      "file": "KavrayskiyVII.md",
-      "x": 3540,
-      "y": 160,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_lambertazimuthalequalarea",
-      "type": "file",
-      "file": "LambertAzimuthalEqualArea.md",
-      "x": 3740,
-      "y": 160,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_proj_northpolarazimuthalequidistant",
-      "type": "file",
-      "file": "NorthPolarAzimuthalEquidistant.md",
-      "x": 3340,
-      "y": 240,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_proj_northpolargnomonic",
-      "type": "file",
-      "file": "NorthPolarGnomonic.md",
-      "x": 3540,
-      "y": 240,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_proj_northpolarlambertazimuthalequalarea",
-      "type": "file",
-      "file": "NorthPolarLambertAzimuthalEqualArea.md",
-      "x": 3740,
-      "y": 240,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_proj_southpolarazimuthalequidistant",
-      "type": "file",
-      "file": "SouthPolarAzimuthalEquidistant.md",
-      "x": 3340,
-      "y": 320,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_proj_southpolargnomonic",
-      "type": "file",
-      "file": "SouthPolarGnomonic.md",
-      "x": 3540,
-      "y": 320,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_proj_southpolarlambertazimuthalequalarea",
-      "type": "file",
-      "file": "SouthPolarLambertAzimuthalEqualArea.md",
-      "x": 3740,
-      "y": 320,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_proj_winkeltripel",
-      "type": "file",
-      "file": "WinkelTripel.md",
-      "x": 3340,
-      "y": 400,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_warpedrectangularprojection",
-      "type": "file",
-      "file": "_WarpedRectangularProjection.md",
-      "x": 3540,
-      "y": 400,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_proj_py",
-      "type": "file",
-      "file": "proj.py.md",
-      "x": 3740,
-      "y": 400,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "g4",
-      "type": "group",
-      "label": "Colormap & Color Database",
-      "x": 0,
-      "y": 1000,
-      "width": 880,
-      "height": 620,
-      "color": "5"
-    },
-    {
-      "id": "n_colors_colordatabase",
-      "type": "file",
-      "file": "ColorDatabase.md",
-      "x": 20,
-      "y": 1080,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_colors_colormapdatabase",
-      "type": "file",
-      "file": "ColormapDatabase.md",
-      "x": 220,
-      "y": 1080,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_config_configurator",
-      "type": "file",
-      "file": "Configurator.md",
-      "x": 420,
-      "y": 1080,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_colors_continuouscolormap",
-      "type": "file",
-      "file": "ContinuousColormap.md",
-      "x": 20,
-      "y": 1160,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_colors_discretecolormap",
-      "type": "file",
-      "file": "DiscreteColormap.md",
-      "x": 220,
-      "y": 1160,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_colors_discretenorm",
-      "type": "file",
-      "file": "DiscreteNorm.md",
-      "x": 420,
-      "y": 1160,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_colors_divergingnorm",
-      "type": "file",
-      "file": "DivergingNorm.md",
-      "x": 20,
-      "y": 1240,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_mutablemapping",
-      "type": "file",
-      "file": "MutableMapping.md",
-      "x": 220,
-      "y": 1240,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_colors_perceptualcolormap",
-      "type": "file",
-      "file": "PerceptualColormap.md",
-      "x": 420,
-      "y": 1240,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_colors_segmentednorm",
-      "type": "file",
-      "file": "SegmentedNorm.md",
-      "x": 20,
-      "y": 1320,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_colors_colorcache",
-      "type": "file",
-      "file": "_ColorCache.md",
-      "x": 220,
-      "y": 1320,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_colors_colormap",
-      "type": "file",
-      "file": "_Colormap.md",
-      "x": 420,
-      "y": 1320,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py",
-      "type": "file",
-      "file": "colors.py.md",
-      "x": 20,
-      "y": 1400,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_dict",
-      "type": "file",
-      "file": "dict.md",
-      "x": 220,
-      "y": 1400,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "g5",
-      "type": "group",
-      "label": "Core API & Entry Points",
-      "x": 1180,
-      "y": 1000,
-      "width": 880,
-      "height": 620,
-      "color": "6"
-    },
-    {
-      "id": "n_text_curvedtext",
-      "type": "file",
-      "file": "CurvedText.md",
-      "x": 1200,
-      "y": 1080,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_constructor_cycle",
-      "type": "file",
-      "file": "Cycle.md",
-      "x": 1400,
-      "y": 1080,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_figure_figure",
-      "type": "file",
-      "file": "Figure.md",
-      "x": 1600,
-      "y": 1080,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_plot_plotaxes",
-      "type": "file",
-      "file": "PlotAxes.md",
-      "x": 1200,
-      "y": 1160,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_utils_crawler",
-      "type": "file",
-      "file": "_Crawler.md",
-      "x": 1400,
-      "y": 1160,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_constructor_refreshingregistry",
-      "type": "file",
-      "file": "_RefreshingRegistry.md",
-      "x": 1600,
-      "y": 1160,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py",
-      "type": "file",
-      "file": "__init__.py.md",
-      "x": 1200,
-      "y": 1240,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_constructor_py",
-      "type": "file",
-      "file": "constructor.py.md",
-      "x": 1400,
-      "y": 1240,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_figure_py",
-      "type": "file",
-      "file": "figure.py.md",
-      "x": 1600,
-      "y": 1240,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_plot_py",
-      "type": "file",
-      "file": "plot.py.md",
-      "x": 1200,
-      "y": 1320,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_text_py",
-      "type": "file",
-      "file": "text.py.md",
-      "x": 1400,
-      "y": 1320,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ui_py",
-      "type": "file",
-      "file": "ui.py.md",
-      "x": 1600,
-      "y": 1320,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_utils_py",
-      "type": "file",
-      "file": "utils.py.md",
-      "x": 1200,
-      "y": 1400,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "g6",
-      "type": "group",
-      "label": "Legend System",
-      "x": 2360,
-      "y": 1000,
-      "width": 660,
-      "height": 420,
-      "color": "1"
-    },
-    {
-      "id": "n_legend_geometryentry",
-      "type": "file",
-      "file": "GeometryEntry.md",
-      "x": 2380,
-      "y": 1080,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_legend_legend",
-      "type": "file",
-      "file": "Legend.md",
-      "x": 2580,
-      "y": 1080,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_legend_legendentry",
-      "type": "file",
-      "file": "LegendEntry.md",
-      "x": 2780,
-      "y": 1080,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_legend_ultralegend",
-      "type": "file",
-      "file": "UltraLegend.md",
-      "x": 2380,
-      "y": 1160,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_legend_featureartistlegendhandler",
-      "type": "file",
-      "file": "_FeatureArtistLegendHandler.md",
-      "x": 2580,
-      "y": 1160,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_legend_geometryentrylegendhandler",
-      "type": "file",
-      "file": "_GeometryEntryLegendHandler.md",
-      "x": 2780,
-      "y": 1160,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_legend_legendinputs",
-      "type": "file",
-      "file": "_LegendInputs.md",
-      "x": 2380,
-      "y": 1240,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_legend_shapelygeometrylegendhandler",
-      "type": "file",
-      "file": "_ShapelyGeometryLegendHandler.md",
-      "x": 2580,
-      "y": 1240,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_legend_py",
-      "type": "file",
-      "file": "legend.py.md",
-      "x": 2780,
-      "y": 1240,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "g7",
-      "type": "group",
-      "label": "Cartesian Axes & Config",
-      "x": 3320,
-      "y": 1000,
-      "width": 660,
-      "height": 420,
-      "color": "2"
-    },
-    {
-      "id": "n_config_rationale_7",
-      "type": "file",
-      "file": "NOTE The matplotlib analogue to this file is actually __init__.py.md",
-      "x": 3340,
-      "y": 1080,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_cartesian_cartesianaxes",
-      "type": "file",
-      "file": "CartesianAxes.md",
-      "x": 3540,
-      "y": 1080,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_cartesianaxes",
-      "type": "file",
-      "file": "CartesianAxes_1.md",
-      "x": 3740,
-      "y": 1080,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_container_externalaxescontainer",
-      "type": "file",
-      "file": "ExternalAxesContainer.md",
-      "x": 3340,
-      "y": 1160,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_cartesian_axisformatconfig",
-      "type": "file",
-      "file": "_AxisFormatConfig.md",
-      "x": 3540,
-      "y": 1160,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_cartesian_py",
-      "type": "file",
-      "file": "cartesian.py.md",
-      "x": 3740,
-      "y": 1160,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py",
-      "type": "file",
-      "file": "config.py.md",
-      "x": 3340,
-      "y": 1240,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_container_py",
-      "type": "file",
-      "file": "container.py.md",
-      "x": 3540,
-      "y": 1240,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "g8",
-      "type": "group",
-      "label": "Polar / 3D / Shared Axes",
-      "x": 0,
-      "y": 1700,
-      "width": 660,
-      "height": 420,
-      "color": "3"
-    },
-    {
-      "id": "n_axes3d",
-      "type": "file",
-      "file": "Axes3D.md",
-      "x": 20,
-      "y": 1780,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_polar_polaraxes",
-      "type": "file",
-      "file": "PolarAxes.md",
-      "x": 220,
-      "y": 1780,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_three_threeaxes",
-      "type": "file",
-      "file": "ThreeAxes.md",
-      "x": 420,
-      "y": 1780,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_shared_sharedaxes",
-      "type": "file",
-      "file": "_SharedAxes.md",
-      "x": 20,
-      "y": 1860,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_init_py",
-      "type": "file",
-      "file": "__init__.py_1.md",
-      "x": 220,
-      "y": 1860,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_polar_py",
-      "type": "file",
-      "file": "polar.py.md",
-      "x": 420,
-      "y": 1860,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_shared_py",
-      "type": "file",
-      "file": "shared.py.md",
-      "x": 20,
-      "y": 1940,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_three_py",
-      "type": "file",
-      "file": "three.py.md",
-      "x": 220,
-      "y": 1940,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "g9",
-      "type": "group",
-      "label": "GridSpec & Layout",
-      "x": 1180,
-      "y": 1700,
-      "width": 660,
-      "height": 400,
-      "color": "4"
-    },
-    {
-      "id": "n_gridspec_gridspec",
-      "type": "file",
-      "file": "GridSpec.md",
-      "x": 1200,
-      "y": 1780,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_mutablesequence",
-      "type": "file",
-      "file": "MutableSequence.md",
-      "x": 1400,
-      "y": 1780,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_gridspec_subplotgrid",
-      "type": "file",
-      "file": "SubplotGrid.md",
-      "x": 1600,
-      "y": 1780,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_gridspec_subplotspec",
-      "type": "file",
-      "file": "_SubplotSpec.md",
-      "x": 1200,
-      "y": 1860,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_gridspec_py",
-      "type": "file",
-      "file": "gridspec.py.md",
-      "x": 1400,
-      "y": 1860,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_list",
-      "type": "file",
-      "file": "list.md",
-      "x": 1600,
-      "y": 1860,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "g10",
-      "type": "group",
-      "label": "Colorbar & Layout Solver",
-      "x": 2360,
-      "y": 1700,
-      "width": 660,
-      "height": 400,
-      "color": "5"
-    },
-    {
-      "id": "n_ultralayout_colorbarlayoutsolver",
-      "type": "file",
-      "file": "ColorbarLayoutSolver.md",
-      "x": 2380,
-      "y": 1780,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_colorbar_ultracolorbar",
-      "type": "file",
-      "file": "UltraColorbar.md",
-      "x": 2580,
-      "y": 1780,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_ultralayout_ultralayoutsolver",
-      "type": "file",
-      "file": "UltraLayoutSolver.md",
-      "x": 2780,
-      "y": 1780,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_colorbar_textkw",
-      "type": "file",
-      "file": "_TextKw.md",
-      "x": 2380,
-      "y": 1860,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colorbar_py",
-      "type": "file",
-      "file": "colorbar.py.md",
-      "x": 2580,
-      "y": 1860,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ultralayout_py",
-      "type": "file",
-      "file": "ultralayout.py.md",
-      "x": 2780,
-      "y": 1860,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "g11",
-      "type": "group",
-      "label": "Base Axes",
-      "x": 3320,
-      "y": 1700,
-      "width": 660,
-      "height": 400,
-      "color": "6"
-    },
-    {
-      "id": "n_base_axes",
-      "type": "file",
-      "file": "Axes.md",
-      "x": 3340,
-      "y": 1780,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_base_externalcontext",
-      "type": "file",
-      "file": "_ExternalContext.md",
-      "x": 3540,
-      "y": 1780,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_base_externalmodemixin",
-      "type": "file",
-      "file": "_ExternalModeMixin.md",
-      "x": 3740,
-      "y": 1780,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_base_transformedboundslocator",
-      "type": "file",
-      "file": "_TransformedBoundsLocator.md",
-      "x": 3340,
-      "y": 1860,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_base_py",
-      "type": "file",
-      "file": "base.py.md",
-      "x": 3540,
-      "y": 1860,
-      "width": 180,
-      "height": 60
-    }
-  ],
-  "edges": [
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_constructor_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_constructor_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_figure_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_figure_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_gridspec_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_gridspec_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_legend_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_legend_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_proj_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_proj_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_text_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_text_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ultralayout_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ultralayout_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ticker_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ticker_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ui_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ui_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_utils_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_utils_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_base_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_base_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_cartesian_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_cartesian_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_plot_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_plot_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_polar_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_polar_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colorbar_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colorbar_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_base_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_init_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_base_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_cartesian_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_init_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_cartesian_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_container_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_init_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_container_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_init_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_plot_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_init_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_plot_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_polar_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_init_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_polar_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_shared_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_init_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_shared_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_three_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_init_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_three_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_base_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colorbar_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_base_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colorbar_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_base_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_base_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_base_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ultralayout_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_base_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ultralayout_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_base_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_utils_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_base_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_utils_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_base_py_base_transformedboundslocator",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_base_py",
-      "toNode": "n_base_transformedboundslocator",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_base_py_base_externalmodemixin",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_base_py",
-      "toNode": "n_base_externalmodemixin",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_base_py_base_externalcontext",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_base_py",
-      "toNode": "n_base_externalcontext",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_base_py_base_axes",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_base_py",
-      "toNode": "n_base_axes",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_base_externalmodemixin_base_axes",
-      "fromNode": "n_base_externalmodemixin",
-      "toNode": "n_base_axes",
-      "label": "inherits [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_cartesian_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_cartesian_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_cartesian_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_utils_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_cartesian_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_utils_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_cartesian_py_cartesian_axisformatconfig",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_cartesian_py",
-      "toNode": "n_cartesian_axisformatconfig",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_cartesian_py_cartesian_cartesianaxes",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_cartesian_py",
-      "toNode": "n_cartesian_cartesianaxes",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_cartesian_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_container_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_cartesian_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_container_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_container_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_container_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_container_py_container_externalaxescontainer",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_container_py",
-      "toNode": "n_container_externalaxescontainer",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_container_externalaxescontainer_cartesianaxes",
-      "fromNode": "n_container_externalaxescontainer",
-      "toNode": "n_cartesianaxes",
-      "label": "inherits [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_utils_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_utils_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py_geo_geolabel",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py",
-      "toNode": "n_geo_geolabel",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py_geo_cartopylabel",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py",
-      "toNode": "n_geo_cartopylabel",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py_geo_cartopygridliner",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py",
-      "toNode": "n_geo_cartopygridliner",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py_geo_geoaxis",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py",
-      "toNode": "n_geo_geoaxis",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py_geo_gridlineradapter",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py",
-      "toNode": "n_geo_gridlineradapter",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py_geo_cartopygridlinerprotocol",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py",
-      "toNode": "n_geo_cartopygridlinerprotocol",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py_geo_cartopygridlineradapter",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py",
-      "toNode": "n_geo_cartopygridlineradapter",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py_geo_basemapgridlineradapter",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py",
-      "toNode": "n_geo_basemapgridlineradapter",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py_geo_lonaxis",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py",
-      "toNode": "n_geo_lonaxis",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py_geo_lataxis",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py",
-      "toNode": "n_geo_lataxis",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py_geo_geoaxes",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py",
-      "toNode": "n_geo_geoaxes",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py_geo_cartopyaxes",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py",
-      "toNode": "n_geo_cartopyaxes",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py_geo_basemapaxes",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py",
-      "toNode": "n_geo_basemapaxes",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_geo_geolabel_object",
-      "fromNode": "n_geo_geolabel",
-      "toNode": "n_object",
-      "label": "inherits [EXTRACTED]"
-    },
-    {
-      "id": "e_geo_geolabel_geo_cartopylabel",
-      "fromNode": "n_geo_geolabel",
-      "toNode": "n_geo_cartopylabel",
-      "label": "inherits [EXTRACTED]"
-    },
-    {
-      "id": "e_object_geo_geoaxis",
-      "fromNode": "n_object",
-      "toNode": "n_geo_geoaxis",
-      "label": "inherits [EXTRACTED]"
-    },
-    {
-      "id": "e_object_shared_sharedaxes",
-      "fromNode": "n_object",
-      "toNode": "n_shared_sharedaxes",
-      "label": "inherits [EXTRACTED]"
-    },
-    {
-      "id": "e_object_colors_colormap",
-      "fromNode": "n_object",
-      "toNode": "n_colors_colormap",
-      "label": "inherits [EXTRACTED]"
-    },
-    {
-      "id": "e_object_scale_scale",
-      "fromNode": "n_object",
-      "toNode": "n_scale_scale",
-      "label": "inherits [EXTRACTED]"
-    },
-    {
-      "id": "e_object_ticker_cartopyformatter",
-      "fromNode": "n_object",
-      "toNode": "n_ticker_cartopyformatter",
-      "label": "inherits [EXTRACTED]"
-    },
-    {
-      "id": "e_geo_geoaxis_geo_lonaxis",
-      "fromNode": "n_geo_geoaxis",
-      "toNode": "n_geo_lonaxis",
-      "label": "inherits [EXTRACTED]"
-    },
-    {
-      "id": "e_geo_geoaxis_geo_lataxis",
-      "fromNode": "n_geo_geoaxis",
-      "toNode": "n_geo_lataxis",
-      "label": "inherits [EXTRACTED]"
-    },
-    {
-      "id": "e_geo_gridlineradapter_protocol",
-      "fromNode": "n_geo_gridlineradapter",
-      "toNode": "n_protocol",
-      "label": "inherits [EXTRACTED]"
-    },
-    {
-      "id": "e_geo_gridlineradapter_geo_cartopygridlineradapter",
-      "fromNode": "n_geo_gridlineradapter",
-      "toNode": "n_geo_cartopygridlineradapter",
-      "label": "inherits [EXTRACTED]"
-    },
-    {
-      "id": "e_geo_gridlineradapter_geo_basemapgridlineradapter",
-      "fromNode": "n_geo_gridlineradapter",
-      "toNode": "n_geo_basemapgridlineradapter",
-      "label": "inherits [EXTRACTED]"
-    },
-    {
-      "id": "e_protocol_geo_cartopygridlinerprotocol",
-      "fromNode": "n_protocol",
-      "toNode": "n_geo_cartopygridlinerprotocol",
-      "label": "inherits [EXTRACTED]"
-    },
-    {
-      "id": "e_geo_geoaxes_geo_cartopyaxes",
-      "fromNode": "n_geo_geoaxes",
-      "toNode": "n_geo_cartopyaxes",
-      "label": "inherits [EXTRACTED]"
-    },
-    {
-      "id": "e_geo_geoaxes_geo_basemapaxes",
-      "fromNode": "n_geo_geoaxes",
-      "toNode": "n_geo_basemapaxes",
-      "label": "inherits [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_plot_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_plot_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_plot_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_utils_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_plot_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_utils_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_plot_py_plot_plotaxes",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_plot_py",
-      "toNode": "n_plot_plotaxes",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_polar_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_polar_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_polar_py_polar_polaraxes",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_polar_py",
-      "toNode": "n_polar_polaraxes",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_shared_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_shared_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_shared_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_utils_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_shared_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_utils_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_shared_py_shared_sharedaxes",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_shared_py",
-      "toNode": "n_shared_sharedaxes",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_three_py_three_threeaxes",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_three_py",
-      "toNode": "n_three_threeaxes",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_three_threeaxes_axes3d",
-      "fromNode": "n_three_threeaxes",
-      "toNode": "n_axes3d",
-      "label": "inherits [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colorbar_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colorbar_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colorbar_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ultralayout_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colorbar_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ultralayout_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colorbar_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_utils_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colorbar_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_utils_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colorbar_py_colorbar_textkw",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colorbar_py",
-      "toNode": "n_colorbar_textkw",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colorbar_py_colorbar_ultracolorbar",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colorbar_py",
-      "toNode": "n_colorbar_ultracolorbar",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_utils_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_utils_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py_colors_colormap",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py",
-      "toNode": "n_colors_colormap",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py_colors_continuouscolormap",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py",
-      "toNode": "n_colors_continuouscolormap",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py_colors_discretecolormap",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py",
-      "toNode": "n_colors_discretecolormap",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py_colors_perceptualcolormap",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py",
-      "toNode": "n_colors_perceptualcolormap",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py_colors_discretenorm",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py",
-      "toNode": "n_colors_discretenorm",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py_colors_segmentednorm",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py",
-      "toNode": "n_colors_segmentednorm",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py_colors_divergingnorm",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py",
-      "toNode": "n_colors_divergingnorm",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py_colors_colorcache",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py",
-      "toNode": "n_colors_colorcache",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py_colors_colordatabase",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py",
-      "toNode": "n_colors_colordatabase",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py_colors_colormapdatabase",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py",
-      "toNode": "n_colors_colormapdatabase",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_colors_colormap_colors_continuouscolormap",
-      "fromNode": "n_colors_colormap",
-      "toNode": "n_colors_continuouscolormap",
-      "label": "inherits [EXTRACTED]"
-    },
-    {
-      "id": "e_colors_colormap_colors_discretecolormap",
-      "fromNode": "n_colors_colormap",
-      "toNode": "n_colors_discretecolormap",
-      "label": "inherits [EXTRACTED]"
-    },
-    {
-      "id": "e_colors_continuouscolormap_colors_perceptualcolormap",
-      "fromNode": "n_colors_continuouscolormap",
-      "toNode": "n_colors_perceptualcolormap",
-      "label": "inherits [EXTRACTED]"
-    },
-    {
-      "id": "e_colors_colorcache_dict",
-      "fromNode": "n_colors_colorcache",
-      "toNode": "n_dict",
-      "label": "inherits [EXTRACTED]"
-    },
-    {
-      "id": "e_dict_colors_colordatabase",
-      "fromNode": "n_dict",
-      "toNode": "n_colors_colordatabase",
-      "label": "inherits [EXTRACTED]"
-    },
-    {
-      "id": "e_dict_config_configurator",
-      "fromNode": "n_dict",
-      "toNode": "n_config_configurator",
-      "label": "inherits [EXTRACTED]"
-    },
-    {
-      "id": "e_colors_colordatabase_mutablemapping",
-      "fromNode": "n_colors_colordatabase",
-      "toNode": "n_mutablemapping",
-      "label": "inherits [EXTRACTED]"
-    },
-    {
-      "id": "e_mutablemapping_config_configurator",
-      "fromNode": "n_mutablemapping",
-      "toNode": "n_config_configurator",
-      "label": "inherits [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py_config_configurator",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py",
-      "toNode": "n_config_configurator",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py_config_rationale_7",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py",
-      "toNode": "n_config_rationale_7",
-      "label": "rationale_for [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_constructor_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_constructor_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_figure_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_figure_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_gridspec_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_gridspec_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_legend_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_legend_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ticker_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ticker_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_constructor_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_utils_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_constructor_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_utils_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_constructor_py_constructor_refreshingregistry",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_constructor_py",
-      "toNode": "n_constructor_refreshingregistry",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_constructor_py_constructor_cycle",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_constructor_py",
-      "toNode": "n_constructor_cycle",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_figure_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_utils_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_figure_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_utils_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_figure_py_figure_figure",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_figure_py",
-      "toNode": "n_figure_figure",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_gridspec_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_utils_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_gridspec_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_utils_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_gridspec_py_gridspec_subplotspec",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_gridspec_py",
-      "toNode": "n_gridspec_subplotspec",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_gridspec_py_gridspec_gridspec",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_gridspec_py",
-      "toNode": "n_gridspec_gridspec",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_gridspec_py_gridspec_subplotgrid",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_gridspec_py",
-      "toNode": "n_gridspec_subplotgrid",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_gridspec_subplotgrid_mutablesequence",
-      "fromNode": "n_gridspec_subplotgrid",
-      "toNode": "n_mutablesequence",
-      "label": "inherits [EXTRACTED]"
-    },
-    {
-      "id": "e_gridspec_subplotgrid_list",
-      "fromNode": "n_gridspec_subplotgrid",
-      "toNode": "n_list",
-      "label": "inherits [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_legend_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_utils_py",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_legend_py",
-      "toNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_utils_py",
-      "label": "imports_from [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_legend_py_legend_legendentry",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_legend_py",
-      "toNode": "n_legend_legendentry",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_legend_py_legend_featureartistlegendhandler",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_legend_py",
-      "toNode": "n_legend_featureartistlegendhandler",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_legend_py_legend_shapelygeometrylegendhandler",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_legend_py",
-      "toNode": "n_legend_shapelygeometrylegendhandler",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_legend_py_legend_geometryentrylegendhandler",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_legend_py",
-      "toNode": "n_legend_geometryentrylegendhandler",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_legend_py_legend_geometryentry",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_legend_py",
-      "toNode": "n_legend_geometryentry",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_legend_py_legend_legendinputs",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_legend_py",
-      "toNode": "n_legend_legendinputs",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_legend_py_legend_legend",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_legend_py",
-      "toNode": "n_legend_legend",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_legend_py_legend_ultralegend",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_legend_py",
-      "toNode": "n_legend_ultralegend",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_proj_py_proj_aitoff",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_proj_py",
-      "toNode": "n_proj_aitoff",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_proj_py_proj_hammer",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_proj_py",
-      "toNode": "n_proj_hammer",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_proj_py_proj_kavrayskiyvii",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_proj_py",
-      "toNode": "n_proj_kavrayskiyvii",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_proj_py_proj_winkeltripel",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_proj_py",
-      "toNode": "n_proj_winkeltripel",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_proj_py_proj_northpolarazimuthalequidistant",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_proj_py",
-      "toNode": "n_proj_northpolarazimuthalequidistant",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_proj_py_proj_southpolarazimuthalequidistant",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_proj_py",
-      "toNode": "n_proj_southpolarazimuthalequidistant",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_proj_py_proj_northpolarlambertazimuthalequalarea",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_proj_py",
-      "toNode": "n_proj_northpolarlambertazimuthalequalarea",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_proj_py_proj_southpolarlambertazimuthalequalarea",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_proj_py",
-      "toNode": "n_proj_southpolarlambertazimuthalequalarea",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_proj_py_proj_northpolargnomonic",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_proj_py",
-      "toNode": "n_proj_northpolargnomonic",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_proj_py_proj_southpolargnomonic",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_proj_py",
-      "toNode": "n_proj_southpolargnomonic",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_proj_aitoff_warpedrectangularprojection",
-      "fromNode": "n_proj_aitoff",
-      "toNode": "n_warpedrectangularprojection",
-      "label": "inherits [EXTRACTED]"
-    },
-    {
-      "id": "e_warpedrectangularprojection_proj_hammer",
-      "fromNode": "n_warpedrectangularprojection",
-      "toNode": "n_proj_hammer",
-      "label": "inherits [EXTRACTED]"
-    },
-    {
-      "id": "e_warpedrectangularprojection_proj_kavrayskiyvii",
-      "fromNode": "n_warpedrectangularprojection",
-      "toNode": "n_proj_kavrayskiyvii",
-      "label": "inherits [EXTRACTED]"
-    },
-    {
-      "id": "e_warpedrectangularprojection_proj_winkeltripel",
-      "fromNode": "n_warpedrectangularprojection",
-      "toNode": "n_proj_winkeltripel",
-      "label": "inherits [EXTRACTED]"
-    },
-    {
-      "id": "e_proj_northpolarazimuthalequidistant_azimuthalequidistant",
-      "fromNode": "n_proj_northpolarazimuthalequidistant",
-      "toNode": "n_azimuthalequidistant",
-      "label": "inherits [EXTRACTED]"
-    },
-    {
-      "id": "e_azimuthalequidistant_proj_southpolarazimuthalequidistant",
-      "fromNode": "n_azimuthalequidistant",
-      "toNode": "n_proj_southpolarazimuthalequidistant",
-      "label": "inherits [EXTRACTED]"
-    },
-    {
-      "id": "e_proj_northpolarlambertazimuthalequalarea_lambertazimuthalequalarea",
-      "fromNode": "n_proj_northpolarlambertazimuthalequalarea",
-      "toNode": "n_lambertazimuthalequalarea",
-      "label": "inherits [EXTRACTED]"
-    },
-    {
-      "id": "e_lambertazimuthalequalarea_proj_southpolarlambertazimuthalequalarea",
-      "fromNode": "n_lambertazimuthalequalarea",
-      "toNode": "n_proj_southpolarlambertazimuthalequalarea",
-      "label": "inherits [EXTRACTED]"
-    },
-    {
-      "id": "e_proj_northpolargnomonic_gnomonic",
-      "fromNode": "n_proj_northpolargnomonic",
-      "toNode": "n_gnomonic",
-      "label": "inherits [EXTRACTED]"
-    },
-    {
-      "id": "e_gnomonic_proj_southpolargnomonic",
-      "fromNode": "n_gnomonic",
-      "toNode": "n_proj_southpolargnomonic",
-      "label": "inherits [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py_scale_scale",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py",
-      "toNode": "n_scale_scale",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py_scale_linearscale",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py",
-      "toNode": "n_scale_linearscale",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py_scale_logitscale",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py",
-      "toNode": "n_scale_logitscale",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py_scale_logscale",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py",
-      "toNode": "n_scale_logscale",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py_scale_symmetricallogscale",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py",
-      "toNode": "n_scale_symmetricallogscale",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py_scale_funcscale",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py",
-      "toNode": "n_scale_funcscale",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py_scale_functransform",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py",
-      "toNode": "n_scale_functransform",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py_scale_powerscale",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py",
-      "toNode": "n_scale_powerscale",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py_scale_powertransform",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py",
-      "toNode": "n_scale_powertransform",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py_scale_invertedpowertransform",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py",
-      "toNode": "n_scale_invertedpowertransform",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py_scale_expscale",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py",
-      "toNode": "n_scale_expscale",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py_scale_exptransform",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py",
-      "toNode": "n_scale_exptransform",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py_scale_invertedexptransform",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py",
-      "toNode": "n_scale_invertedexptransform",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py_scale_mercatorlatitudescale",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py",
-      "toNode": "n_scale_mercatorlatitudescale",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py_scale_mercatorlatitudetransform",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py",
-      "toNode": "n_scale_mercatorlatitudetransform",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py_scale_invertedmercatorlatitudetransform",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py",
-      "toNode": "n_scale_invertedmercatorlatitudetransform",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py_scale_sinelatitudescale",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py",
-      "toNode": "n_scale_sinelatitudescale",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py_scale_sinelatitudetransform",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py",
-      "toNode": "n_scale_sinelatitudetransform",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py_scale_invertedsinelatitudetransform",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py",
-      "toNode": "n_scale_invertedsinelatitudetransform",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py_scale_cutoffscale",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py",
-      "toNode": "n_scale_cutoffscale",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py_scale_cutofftransform",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py",
-      "toNode": "n_scale_cutofftransform",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py_scale_inversescale",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py",
-      "toNode": "n_scale_inversescale",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py_scale_inversetransform",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py",
-      "toNode": "n_scale_inversetransform",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_scale_scale_scale_linearscale",
-      "fromNode": "n_scale_scale",
-      "toNode": "n_scale_linearscale",
-      "label": "inherits [EXTRACTED]"
-    },
-    {
-      "id": "e_scale_scale_scale_logitscale",
-      "fromNode": "n_scale_scale",
-      "toNode": "n_scale_logitscale",
-      "label": "inherits [EXTRACTED]"
-    },
-    {
-      "id": "e_scale_scale_scale_logscale",
-      "fromNode": "n_scale_scale",
-      "toNode": "n_scale_logscale",
-      "label": "inherits [EXTRACTED]"
-    },
-    {
-      "id": "e_scale_scale_scale_symmetricallogscale",
-      "fromNode": "n_scale_scale",
-      "toNode": "n_scale_symmetricallogscale",
-      "label": "inherits [EXTRACTED]"
-    },
-    {
-      "id": "e_scale_scale_scale_funcscale",
-      "fromNode": "n_scale_scale",
-      "toNode": "n_scale_funcscale",
-      "label": "inherits [EXTRACTED]"
-    },
-    {
-      "id": "e_scale_scale_scale_powerscale",
-      "fromNode": "n_scale_scale",
-      "toNode": "n_scale_powerscale",
-      "label": "inherits [EXTRACTED]"
-    },
-    {
-      "id": "e_scale_scale_scale_expscale",
-      "fromNode": "n_scale_scale",
-      "toNode": "n_scale_expscale",
-      "label": "inherits [EXTRACTED]"
-    },
-    {
-      "id": "e_scale_scale_scale_mercatorlatitudescale",
-      "fromNode": "n_scale_scale",
-      "toNode": "n_scale_mercatorlatitudescale",
-      "label": "inherits [EXTRACTED]"
-    },
-    {
-      "id": "e_scale_scale_scale_sinelatitudescale",
-      "fromNode": "n_scale_scale",
-      "toNode": "n_scale_sinelatitudescale",
-      "label": "inherits [EXTRACTED]"
-    },
-    {
-      "id": "e_scale_scale_scale_cutoffscale",
-      "fromNode": "n_scale_scale",
-      "toNode": "n_scale_cutoffscale",
-      "label": "inherits [EXTRACTED]"
-    },
-    {
-      "id": "e_scale_scale_scale_inversescale",
-      "fromNode": "n_scale_scale",
-      "toNode": "n_scale_inversescale",
-      "label": "inherits [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_text_py_text_curvedtext",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_text_py",
-      "toNode": "n_text_curvedtext",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ticker_py_ticker_indexlocator",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ticker_py",
-      "toNode": "n_ticker_indexlocator",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ticker_py_ticker_discretelocator",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ticker_py",
-      "toNode": "n_ticker_discretelocator",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ticker_py_ticker_degreelocator",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ticker_py",
-      "toNode": "n_ticker_degreelocator",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ticker_py_ticker_longitudelocator",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ticker_py",
-      "toNode": "n_ticker_longitudelocator",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ticker_py_ticker_latitudelocator",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ticker_py",
-      "toNode": "n_ticker_latitudelocator",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ticker_py_ticker_autoformatter",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ticker_py",
-      "toNode": "n_ticker_autoformatter",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ticker_py_ticker_simpleformatter",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ticker_py",
-      "toNode": "n_ticker_simpleformatter",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ticker_py_ticker_indexformatter",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ticker_py",
-      "toNode": "n_ticker_indexformatter",
-      "label": "contains [EXTRACTED]"
-    },
-    {
-      "id": "e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ticker_py_ticker_sciformatter",
-      "fromNode": "n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ticker_py",
-      "toNode": "n_ticker_sciformatter",
-      "label": "contains [EXTRACTED]"
-    }
-  ]
+	"nodes":[
+		{"id":"g0","type":"group","label":"Scale & Transform System","x":0,"y":0,"width":1100,"height":920,"color":"1"},
+		{"id":"n_scale_cutoffscale","type":"file","file":"CutoffScale.md","x":20,"y":80,"width":180,"height":60},
+		{"id":"n_scale_cutofftransform","type":"file","file":"CutoffTransform.md","x":220,"y":80,"width":180,"height":60},
+		{"id":"n_scale_expscale","type":"file","file":"ExpScale.md","x":420,"y":80,"width":180,"height":60},
+		{"id":"n_scale_exptransform","type":"file","file":"ExpTransform.md","x":20,"y":160,"width":180,"height":60},
+		{"id":"n_scale_funcscale","type":"file","file":"FuncScale.md","x":220,"y":160,"width":180,"height":60},
+		{"id":"n_scale_functransform","type":"file","file":"FuncTransform.md","x":420,"y":160,"width":180,"height":60},
+		{"id":"n_scale_inversescale","type":"file","file":"InverseScale.md","x":20,"y":240,"width":180,"height":60},
+		{"id":"n_scale_inversetransform","type":"file","file":"InverseTransform.md","x":220,"y":240,"width":180,"height":60},
+		{"id":"n_scale_invertedexptransform","type":"file","file":"InvertedExpTransform.md","x":420,"y":240,"width":180,"height":60},
+		{"id":"n_scale_invertedmercatorlatitudetransform","type":"file","file":"InvertedMercatorLatitudeTransform.md","x":20,"y":320,"width":180,"height":60},
+		{"id":"n_scale_invertedpowertransform","type":"file","file":"InvertedPowerTransform.md","x":220,"y":320,"width":180,"height":60},
+		{"id":"n_scale_invertedsinelatitudetransform","type":"file","file":"InvertedSineLatitudeTransform.md","x":420,"y":320,"width":180,"height":60},
+		{"id":"n_scale_linearscale","type":"file","file":"LinearScale.md","x":20,"y":400,"width":180,"height":60},
+		{"id":"n_scale_logscale","type":"file","file":"LogScale.md","x":220,"y":400,"width":180,"height":60},
+		{"id":"n_scale_logitscale","type":"file","file":"LogitScale.md","x":420,"y":400,"width":180,"height":60},
+		{"id":"n_scale_mercatorlatitudescale","type":"file","file":"MercatorLatitudeScale.md","x":20,"y":480,"width":180,"height":60},
+		{"id":"n_scale_mercatorlatitudetransform","type":"file","file":"MercatorLatitudeTransform.md","x":220,"y":480,"width":180,"height":60},
+		{"id":"n_scale_powerscale","type":"file","file":"PowerScale.md","x":420,"y":480,"width":180,"height":60},
+		{"id":"n_scale_powertransform","type":"file","file":"PowerTransform.md","x":20,"y":560,"width":180,"height":60},
+		{"id":"n_scale_sinelatitudescale","type":"file","file":"SineLatitudeScale.md","x":220,"y":560,"width":180,"height":60},
+		{"id":"n_scale_sinelatitudetransform","type":"file","file":"SineLatitudeTransform.md","x":420,"y":560,"width":180,"height":60},
+		{"id":"n_scale_symmetricallogscale","type":"file","file":"SymmetricalLogScale.md","x":20,"y":640,"width":180,"height":60},
+		{"id":"n_scale_scale","type":"file","file":"_Scale.md","x":220,"y":640,"width":180,"height":60},
+		{"id":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py","type":"file","file":"scale.py.md","x":420,"y":640,"width":180,"height":60},
+		{"id":"g1","type":"group","label":"Tick Formatters & Locators","x":1180,"y":0,"width":1100,"height":820,"color":"2"},
+		{"id":"n_ticker_autocfdatetimeformatter","type":"file","file":"AutoCFDatetimeFormatter.md","x":1200,"y":80,"width":180,"height":60},
+		{"id":"n_ticker_autocfdatetimelocator","type":"file","file":"AutoCFDatetimeLocator.md","x":1400,"y":80,"width":180,"height":60},
+		{"id":"n_ticker_autoformatter","type":"file","file":"AutoFormatter.md","x":1600,"y":80,"width":180,"height":60},
+		{"id":"n_ticker_cfdatetimeformatter","type":"file","file":"CFDatetimeFormatter.md","x":1200,"y":160,"width":180,"height":60},
+		{"id":"n_ticker_cftimeconverter","type":"file","file":"CFTimeConverter.md","x":1400,"y":160,"width":180,"height":60},
+		{"id":"n_ticker_degreeformatter","type":"file","file":"DegreeFormatter.md","x":1600,"y":160,"width":180,"height":60},
+		{"id":"n_ticker_degreelocator","type":"file","file":"DegreeLocator.md","x":1200,"y":240,"width":180,"height":60},
+		{"id":"n_ticker_discretelocator","type":"file","file":"DiscreteLocator.md","x":1400,"y":240,"width":180,"height":60},
+		{"id":"n_ticker_fracformatter","type":"file","file":"FracFormatter.md","x":1600,"y":240,"width":180,"height":60},
+		{"id":"n_ticker_indexformatter","type":"file","file":"IndexFormatter.md","x":1200,"y":320,"width":180,"height":60},
+		{"id":"n_ticker_indexlocator","type":"file","file":"IndexLocator.md","x":1400,"y":320,"width":180,"height":60},
+		{"id":"n_ticker_latitudeformatter","type":"file","file":"LatitudeFormatter.md","x":1600,"y":320,"width":180,"height":60},
+		{"id":"n_ticker_latitudelocator","type":"file","file":"LatitudeLocator.md","x":1200,"y":400,"width":180,"height":60},
+		{"id":"n_ticker_longitudeformatter","type":"file","file":"LongitudeFormatter.md","x":1400,"y":400,"width":180,"height":60},
+		{"id":"n_ticker_longitudelocator","type":"file","file":"LongitudeLocator.md","x":1600,"y":400,"width":180,"height":60},
+		{"id":"n_ticker_sciformatter","type":"file","file":"SciFormatter.md","x":1200,"y":480,"width":180,"height":60},
+		{"id":"n_ticker_sigfigformatter","type":"file","file":"SigFigFormatter.md","x":1400,"y":480,"width":180,"height":60},
+		{"id":"n_ticker_simpleformatter","type":"file","file":"SimpleFormatter.md","x":1600,"y":480,"width":180,"height":60},
+		{"id":"n_ticker_cartopyformatter","type":"file","file":"_CartopyFormatter.md","x":1200,"y":560,"width":180,"height":60},
+		{"id":"n_platecarreeformatter","type":"file","file":"_PlateCarreeFormatter.md","x":1400,"y":560,"width":180,"height":60},
+		{"id":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ticker_py","type":"file","file":"ticker.py.md","x":1600,"y":560,"width":180,"height":60},
+		{"id":"g2","type":"group","label":"Geographic Axes (Cartopy/Basemap)","x":2360,"y":0,"width":880,"height":720,"color":"3"},
+		{"id":"n_geo_geoaxes","type":"file","file":"GeoAxes.md","x":2380,"y":80,"width":180,"height":60},
+		{"id":"n_protocol","type":"file","file":"Protocol.md","x":2580,"y":80,"width":180,"height":60},
+		{"id":"n_geo_basemapaxes","type":"file","file":"_BasemapAxes.md","x":2780,"y":80,"width":180,"height":60},
+		{"id":"n_geo_basemapgridlineradapter","type":"file","file":"_BasemapGridlinerAdapter.md","x":2380,"y":160,"width":180,"height":60},
+		{"id":"n_geo_cartopyaxes","type":"file","file":"_CartopyAxes.md","x":2580,"y":160,"width":180,"height":60},
+		{"id":"n_geo_cartopygridliner","type":"file","file":"_CartopyGridliner.md","x":2780,"y":160,"width":180,"height":60},
+		{"id":"n_geo_cartopygridlineradapter","type":"file","file":"_CartopyGridlinerAdapter.md","x":2380,"y":240,"width":180,"height":60},
+		{"id":"n_geo_cartopygridlinerprotocol","type":"file","file":"_CartopyGridlinerProtocol.md","x":2580,"y":240,"width":180,"height":60},
+		{"id":"n_geo_cartopylabel","type":"file","file":"_CartopyLabel.md","x":2780,"y":240,"width":180,"height":60},
+		{"id":"n_geo_geoaxis","type":"file","file":"_GeoAxis.md","x":2380,"y":320,"width":180,"height":60},
+		{"id":"n_geo_geolabel","type":"file","file":"_GeoLabel.md","x":2580,"y":320,"width":180,"height":60},
+		{"id":"n_geo_gridlineradapter","type":"file","file":"_GridlinerAdapter.md","x":2780,"y":320,"width":180,"height":60},
+		{"id":"n_geo_lataxis","type":"file","file":"_LatAxis.md","x":2380,"y":400,"width":180,"height":60},
+		{"id":"n_geo_lonaxis","type":"file","file":"_LonAxis.md","x":2580,"y":400,"width":180,"height":60},
+		{"id":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py","type":"file","file":"geo.py.md","x":2780,"y":400,"width":180,"height":60},
+		{"id":"n_object","type":"file","file":"object.md","x":2380,"y":480,"width":180,"height":60},
+		{"id":"g3","type":"group","label":"Projection Definitions","x":3320,"y":0,"width":880,"height":620,"color":"4"},
+		{"id":"n_proj_aitoff","type":"file","file":"Aitoff.md","x":3340,"y":80,"width":180,"height":60},
+		{"id":"n_azimuthalequidistant","type":"file","file":"AzimuthalEquidistant.md","x":3540,"y":80,"width":180,"height":60},
+		{"id":"n_gnomonic","type":"file","file":"Gnomonic.md","x":3740,"y":80,"width":180,"height":60},
+		{"id":"n_proj_hammer","type":"file","file":"Hammer.md","x":3340,"y":160,"width":180,"height":60},
+		{"id":"n_proj_kavrayskiyvii","type":"file","file":"KavrayskiyVII.md","x":3540,"y":160,"width":180,"height":60},
+		{"id":"n_lambertazimuthalequalarea","type":"file","file":"LambertAzimuthalEqualArea.md","x":3740,"y":160,"width":180,"height":60},
+		{"id":"n_proj_northpolarazimuthalequidistant","type":"file","file":"NorthPolarAzimuthalEquidistant.md","x":3340,"y":240,"width":180,"height":60},
+		{"id":"n_proj_northpolargnomonic","type":"file","file":"NorthPolarGnomonic.md","x":3540,"y":240,"width":180,"height":60},
+		{"id":"n_proj_northpolarlambertazimuthalequalarea","type":"file","file":"NorthPolarLambertAzimuthalEqualArea.md","x":3740,"y":240,"width":180,"height":60},
+		{"id":"n_proj_southpolarazimuthalequidistant","type":"file","file":"SouthPolarAzimuthalEquidistant.md","x":3340,"y":320,"width":180,"height":60},
+		{"id":"n_proj_southpolargnomonic","type":"file","file":"SouthPolarGnomonic.md","x":3540,"y":320,"width":180,"height":60},
+		{"id":"n_proj_southpolarlambertazimuthalequalarea","type":"file","file":"SouthPolarLambertAzimuthalEqualArea.md","x":3740,"y":320,"width":180,"height":60},
+		{"id":"n_proj_winkeltripel","type":"file","file":"WinkelTripel.md","x":3340,"y":400,"width":180,"height":60},
+		{"id":"n_warpedrectangularprojection","type":"file","file":"_WarpedRectangularProjection.md","x":3540,"y":400,"width":180,"height":60},
+		{"id":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_proj_py","type":"file","file":"proj.py.md","x":3740,"y":400,"width":180,"height":60},
+		{"id":"g4","type":"group","label":"Colormap & Color Database","x":0,"y":1000,"width":880,"height":620,"color":"5"},
+		{"id":"n_colors_colordatabase","type":"file","file":"ColorDatabase.md","x":20,"y":1080,"width":180,"height":60},
+		{"id":"n_colors_colormapdatabase","type":"file","file":"ColormapDatabase.md","x":220,"y":1080,"width":180,"height":60},
+		{"id":"n_config_configurator","type":"file","file":"Configurator.md","x":420,"y":1080,"width":180,"height":60},
+		{"id":"n_colors_continuouscolormap","type":"file","file":"ContinuousColormap.md","x":20,"y":1160,"width":180,"height":60},
+		{"id":"n_colors_discretecolormap","type":"file","file":"DiscreteColormap.md","x":220,"y":1160,"width":180,"height":60},
+		{"id":"n_colors_discretenorm","type":"file","file":"DiscreteNorm.md","x":420,"y":1160,"width":180,"height":60},
+		{"id":"n_colors_divergingnorm","type":"file","file":"DivergingNorm.md","x":20,"y":1240,"width":180,"height":60},
+		{"id":"n_mutablemapping","type":"file","file":"MutableMapping.md","x":220,"y":1240,"width":180,"height":60},
+		{"id":"n_colors_perceptualcolormap","type":"file","file":"PerceptualColormap.md","x":420,"y":1240,"width":180,"height":60},
+		{"id":"n_colors_segmentednorm","type":"file","file":"SegmentedNorm.md","x":20,"y":1320,"width":180,"height":60},
+		{"id":"n_colors_colorcache","type":"file","file":"_ColorCache.md","x":220,"y":1320,"width":180,"height":60},
+		{"id":"n_colors_colormap","type":"file","file":"_Colormap.md","x":420,"y":1320,"width":180,"height":60},
+		{"id":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py","type":"file","file":"colors.py.md","x":20,"y":1400,"width":180,"height":60},
+		{"id":"n_dict","type":"file","file":"dict.md","x":220,"y":1400,"width":180,"height":60},
+		{"id":"g5","type":"group","label":"Core API & Entry Points","x":1180,"y":1000,"width":880,"height":620,"color":"6"},
+		{"id":"n_text_curvedtext","type":"file","file":"CurvedText.md","x":1200,"y":1080,"width":180,"height":60},
+		{"id":"n_constructor_cycle","type":"file","file":"Cycle.md","x":1400,"y":1080,"width":180,"height":60},
+		{"id":"n_figure_figure","type":"file","file":"Figure.md","x":1600,"y":1080,"width":180,"height":60},
+		{"id":"n_plot_plotaxes","type":"file","file":"PlotAxes.md","x":1200,"y":1160,"width":180,"height":60},
+		{"id":"n_utils_crawler","type":"file","file":"_Crawler.md","x":1400,"y":1160,"width":180,"height":60},
+		{"id":"n_constructor_refreshingregistry","type":"file","file":"_RefreshingRegistry.md","x":1600,"y":1160,"width":180,"height":60},
+		{"id":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py","type":"file","file":"__init__.py.md","x":1200,"y":1240,"width":180,"height":60},
+		{"id":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_constructor_py","type":"file","file":"constructor.py.md","x":1400,"y":1240,"width":180,"height":60},
+		{"id":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_figure_py","type":"file","file":"figure.py.md","x":1600,"y":1240,"width":180,"height":60},
+		{"id":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_plot_py","type":"file","file":"plot.py.md","x":1200,"y":1320,"width":180,"height":60},
+		{"id":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_text_py","type":"file","file":"text.py.md","x":1400,"y":1320,"width":180,"height":60},
+		{"id":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ui_py","type":"file","file":"ui.py.md","x":1600,"y":1320,"width":180,"height":60},
+		{"id":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_utils_py","type":"file","file":"utils.py.md","x":1200,"y":1400,"width":180,"height":60},
+		{"id":"g6","type":"group","label":"Legend System","x":2360,"y":1000,"width":660,"height":420,"color":"1"},
+		{"id":"n_legend_geometryentry","type":"file","file":"GeometryEntry.md","x":2380,"y":1080,"width":180,"height":60},
+		{"id":"n_legend_legend","type":"file","file":"Legend.md","x":2580,"y":1080,"width":180,"height":60},
+		{"id":"n_legend_legendentry","type":"file","file":"LegendEntry.md","x":2780,"y":1080,"width":180,"height":60},
+		{"id":"n_legend_ultralegend","type":"file","file":"UltraLegend.md","x":2380,"y":1160,"width":180,"height":60},
+		{"id":"n_legend_featureartistlegendhandler","type":"file","file":"_FeatureArtistLegendHandler.md","x":2580,"y":1160,"width":180,"height":60},
+		{"id":"n_legend_geometryentrylegendhandler","type":"file","file":"_GeometryEntryLegendHandler.md","x":2780,"y":1160,"width":180,"height":60},
+		{"id":"n_legend_legendinputs","type":"file","file":"_LegendInputs.md","x":2380,"y":1240,"width":180,"height":60},
+		{"id":"n_legend_shapelygeometrylegendhandler","type":"file","file":"_ShapelyGeometryLegendHandler.md","x":2580,"y":1240,"width":180,"height":60},
+		{"id":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_legend_py","type":"file","file":"legend.py.md","x":2780,"y":1240,"width":180,"height":60},
+		{"id":"g7","type":"group","label":"Cartesian Axes & Config","x":3320,"y":1000,"width":660,"height":420,"color":"2"},
+		{"id":"n_config_rationale_7","type":"file","file":"NOTE The matplotlib analogue to this file is actually __init__.py.md","x":3340,"y":1080,"width":180,"height":60},
+		{"id":"n_cartesian_cartesianaxes","type":"file","file":"CartesianAxes.md","x":3540,"y":1080,"width":180,"height":60},
+		{"id":"n_cartesianaxes","type":"file","file":"CartesianAxes_1.md","x":3740,"y":1080,"width":180,"height":60},
+		{"id":"n_container_externalaxescontainer","type":"file","file":"ExternalAxesContainer.md","x":3340,"y":1160,"width":180,"height":60},
+		{"id":"n_cartesian_axisformatconfig","type":"file","file":"_AxisFormatConfig.md","x":3540,"y":1160,"width":180,"height":60},
+		{"id":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_cartesian_py","type":"file","file":"cartesian.py.md","x":3740,"y":1160,"width":180,"height":60},
+		{"id":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py","type":"file","file":"config.py.md","x":3340,"y":1240,"width":180,"height":60},
+		{"id":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_container_py","type":"file","file":"container.py.md","x":3540,"y":1240,"width":180,"height":60},
+		{"id":"g8","type":"group","label":"Polar / 3D / Shared Axes","x":0,"y":1700,"width":660,"height":420,"color":"3"},
+		{"id":"n_axes3d","type":"file","file":"Axes3D.md","x":20,"y":1780,"width":180,"height":60},
+		{"id":"n_polar_polaraxes","type":"file","file":"PolarAxes.md","x":220,"y":1780,"width":180,"height":60},
+		{"id":"n_three_threeaxes","type":"file","file":"ThreeAxes.md","x":420,"y":1780,"width":180,"height":60},
+		{"id":"n_shared_sharedaxes","type":"file","file":"_SharedAxes.md","x":20,"y":1860,"width":180,"height":60},
+		{"id":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_init_py","type":"file","file":"__init__.py_1.md","x":220,"y":1860,"width":180,"height":60},
+		{"id":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_polar_py","type":"file","file":"polar.py.md","x":420,"y":1860,"width":180,"height":60},
+		{"id":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_shared_py","type":"file","file":"shared.py.md","x":20,"y":1940,"width":180,"height":60},
+		{"id":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_three_py","type":"file","file":"three.py.md","x":220,"y":1940,"width":180,"height":60},
+		{"id":"g9","type":"group","label":"GridSpec & Layout","x":1180,"y":1700,"width":660,"height":400,"color":"4"},
+		{"id":"n_gridspec_gridspec","type":"file","file":"GridSpec.md","x":1200,"y":1780,"width":180,"height":60},
+		{"id":"n_mutablesequence","type":"file","file":"MutableSequence.md","x":1400,"y":1780,"width":180,"height":60},
+		{"id":"n_gridspec_subplotgrid","type":"file","file":"SubplotGrid.md","x":1600,"y":1780,"width":180,"height":60},
+		{"id":"n_gridspec_subplotspec","type":"file","file":"_SubplotSpec.md","x":1200,"y":1860,"width":180,"height":60},
+		{"id":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_gridspec_py","type":"file","file":"gridspec.py.md","x":1400,"y":1860,"width":180,"height":60},
+		{"id":"n_list","type":"file","file":"list.md","x":1600,"y":1860,"width":180,"height":60},
+		{"id":"g10","type":"group","label":"Colorbar & Layout Solver","x":2360,"y":1700,"width":660,"height":400,"color":"5"},
+		{"id":"n_ultralayout_colorbarlayoutsolver","type":"file","file":"ColorbarLayoutSolver.md","x":2380,"y":1780,"width":180,"height":60},
+		{"id":"n_colorbar_ultracolorbar","type":"file","file":"UltraColorbar.md","x":2580,"y":1780,"width":180,"height":60},
+		{"id":"n_ultralayout_ultralayoutsolver","type":"file","file":"UltraLayoutSolver.md","x":2780,"y":1780,"width":180,"height":60},
+		{"id":"n_colorbar_textkw","type":"file","file":"_TextKw.md","x":2380,"y":1860,"width":180,"height":60},
+		{"id":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colorbar_py","type":"file","file":"colorbar.py.md","x":2580,"y":1860,"width":180,"height":60},
+		{"id":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ultralayout_py","type":"file","file":"ultralayout.py.md","x":2780,"y":1860,"width":180,"height":60},
+		{"id":"g11","type":"group","label":"Base Axes","x":3320,"y":1700,"width":660,"height":400,"color":"6"},
+		{"id":"n_base_axes","type":"file","file":"Axes.md","x":3340,"y":1780,"width":180,"height":60},
+		{"id":"n_base_externalcontext","type":"file","file":"_ExternalContext.md","x":3540,"y":1780,"width":180,"height":60},
+		{"id":"n_base_externalmodemixin","type":"file","file":"_ExternalModeMixin.md","x":3740,"y":1780,"width":180,"height":60},
+		{"id":"n_base_transformedboundslocator","type":"file","file":"_TransformedBoundsLocator.md","x":3340,"y":1860,"width":180,"height":60},
+		{"id":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_base_py","type":"file","file":"base.py.md","x":3540,"y":1860,"width":180,"height":60}
+	],
+	"edges":[
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py","label":"imports_from [EXTRACTED]","fromSide":"left","toSide":"right"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py","label":"imports_from [EXTRACTED]","fromSide":"right","toSide":"left"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_constructor_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_constructor_py","label":"imports_from [EXTRACTED]","fromSide":"right","toSide":"left"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_figure_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_figure_py","label":"imports_from [EXTRACTED]","fromSide":"right","toSide":"left"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_gridspec_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_gridspec_py","label":"imports_from [EXTRACTED]","fromSide":"bottom","toSide":"top"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_legend_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_legend_py","label":"imports_from [EXTRACTED]","fromSide":"right","toSide":"left"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_proj_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_proj_py","label":"imports_from [EXTRACTED]","fromSide":"right","toSide":"left"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py","label":"imports_from [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_text_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_text_py","label":"imports_from [EXTRACTED]","fromSide":"bottom","toSide":"top"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ultralayout_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ultralayout_py","label":"imports_from [EXTRACTED]","fromSide":"bottom","toSide":"top"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ticker_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ticker_py","label":"imports_from [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ui_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ui_py","label":"imports_from [EXTRACTED]","fromSide":"right","toSide":"left"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_utils_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_utils_py","label":"imports_from [EXTRACTED]","fromSide":"bottom","toSide":"top"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_base_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_base_py","label":"imports_from [EXTRACTED]","fromSide":"right","toSide":"left"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_cartesian_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_cartesian_py","label":"imports_from [EXTRACTED]","fromSide":"right","toSide":"left"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py","label":"imports_from [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_plot_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_plot_py","label":"imports_from [EXTRACTED]","fromSide":"bottom","toSide":"top"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_polar_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_polar_py","label":"imports_from [EXTRACTED]","fromSide":"bottom","toSide":"top"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colorbar_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_init_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colorbar_py","label":"imports_from [EXTRACTED]","fromSide":"bottom","toSide":"top"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_base_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_init_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_base_py","label":"imports_from [EXTRACTED]","fromSide":"right","toSide":"left"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_cartesian_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_init_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_cartesian_py","label":"imports_from [EXTRACTED]","fromSide":"right","toSide":"left"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_container_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_init_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_container_py","label":"imports_from [EXTRACTED]","fromSide":"right","toSide":"left"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_init_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py","label":"imports_from [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_plot_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_init_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_plot_py","label":"imports_from [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_polar_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_init_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_polar_py","label":"imports_from [EXTRACTED]","fromSide":"right","toSide":"left"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_shared_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_init_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_shared_py","label":"imports_from [EXTRACTED]","fromSide":"bottom","toSide":"top"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_init_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_three_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_init_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_three_py","label":"imports_from [EXTRACTED]","fromSide":"bottom","toSide":"top"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_base_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colorbar_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_base_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colorbar_py","label":"imports_from [EXTRACTED]","fromSide":"left","toSide":"right"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_base_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_base_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py","label":"imports_from [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_base_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ultralayout_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_base_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ultralayout_py","label":"imports_from [EXTRACTED]","fromSide":"left","toSide":"right"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_base_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_utils_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_base_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_utils_py","label":"imports_from [EXTRACTED]","fromSide":"left","toSide":"right"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_base_py_base_transformedboundslocator","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_base_py","toNode":"n_base_transformedboundslocator","label":"contains [EXTRACTED]","fromSide":"left","toSide":"right"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_base_py_base_externalmodemixin","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_base_py","toNode":"n_base_externalmodemixin","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_base_py_base_externalcontext","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_base_py","toNode":"n_base_externalcontext","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_base_py_base_axes","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_base_py","toNode":"n_base_axes","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_base_externalmodemixin_base_axes","fromNode":"n_base_externalmodemixin","toNode":"n_base_axes","label":"inherits [EXTRACTED]","fromSide":"left","toSide":"right"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_cartesian_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_cartesian_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py","label":"imports_from [EXTRACTED]","fromSide":"left","toSide":"right"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_cartesian_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_utils_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_cartesian_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_utils_py","label":"imports_from [EXTRACTED]","fromSide":"left","toSide":"right"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_cartesian_py_cartesian_axisformatconfig","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_cartesian_py","toNode":"n_cartesian_axisformatconfig","label":"contains [EXTRACTED]","fromSide":"left","toSide":"right"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_cartesian_py_cartesian_cartesianaxes","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_cartesian_py","toNode":"n_cartesian_cartesianaxes","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_cartesian_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_container_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_cartesian_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_container_py","label":"imports_from [EXTRACTED]","fromSide":"bottom","toSide":"top"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_container_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_container_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py","label":"imports_from [EXTRACTED]","fromSide":"left","toSide":"right"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_container_py_container_externalaxescontainer","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_container_py","toNode":"n_container_externalaxescontainer","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_container_externalaxescontainer_cartesianaxes","fromNode":"n_container_externalaxescontainer","toNode":"n_cartesianaxes","label":"inherits [EXTRACTED]","fromSide":"right","toSide":"left"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py","label":"imports_from [EXTRACTED]","fromSide":"bottom","toSide":"top"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_utils_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_utils_py","label":"imports_from [EXTRACTED]","fromSide":"bottom","toSide":"top"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py_geo_geolabel","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py","toNode":"n_geo_geolabel","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py_geo_cartopylabel","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py","toNode":"n_geo_cartopylabel","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py_geo_cartopygridliner","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py","toNode":"n_geo_cartopygridliner","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py_geo_geoaxis","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py","toNode":"n_geo_geoaxis","label":"contains [EXTRACTED]","fromSide":"left","toSide":"right"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py_geo_gridlineradapter","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py","toNode":"n_geo_gridlineradapter","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py_geo_cartopygridlinerprotocol","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py","toNode":"n_geo_cartopygridlinerprotocol","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py_geo_cartopygridlineradapter","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py","toNode":"n_geo_cartopygridlineradapter","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py_geo_basemapgridlineradapter","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py","toNode":"n_geo_basemapgridlineradapter","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py_geo_lonaxis","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py","toNode":"n_geo_lonaxis","label":"contains [EXTRACTED]","fromSide":"left","toSide":"right"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py_geo_lataxis","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py","toNode":"n_geo_lataxis","label":"contains [EXTRACTED]","fromSide":"left","toSide":"right"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py_geo_geoaxes","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py","toNode":"n_geo_geoaxes","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py_geo_cartopyaxes","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py","toNode":"n_geo_cartopyaxes","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py_geo_basemapaxes","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_geo_py","toNode":"n_geo_basemapaxes","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_geo_geolabel_object","fromNode":"n_geo_geolabel","toNode":"n_object","label":"inherits [EXTRACTED]","fromSide":"bottom","toSide":"top"},
+		{"id":"e_geo_geolabel_geo_cartopylabel","fromNode":"n_geo_geolabel","toNode":"n_geo_cartopylabel","label":"inherits [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_object_geo_geoaxis","fromNode":"n_object","toNode":"n_geo_geoaxis","label":"inherits [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_object_shared_sharedaxes","fromNode":"n_object","toNode":"n_shared_sharedaxes","label":"inherits [EXTRACTED]","fromSide":"bottom","toSide":"top"},
+		{"id":"e_object_colors_colormap","fromNode":"n_object","toNode":"n_colors_colormap","label":"inherits [EXTRACTED]","fromSide":"bottom","toSide":"top"},
+		{"id":"e_object_scale_scale","fromNode":"n_object","toNode":"n_scale_scale","label":"inherits [EXTRACTED]","fromSide":"left","toSide":"right"},
+		{"id":"e_object_ticker_cartopyformatter","fromNode":"n_object","toNode":"n_ticker_cartopyformatter","label":"inherits [EXTRACTED]","fromSide":"left","toSide":"right"},
+		{"id":"e_geo_geoaxis_geo_lonaxis","fromNode":"n_geo_geoaxis","toNode":"n_geo_lonaxis","label":"inherits [EXTRACTED]","fromSide":"bottom","toSide":"top"},
+		{"id":"e_geo_geoaxis_geo_lataxis","fromNode":"n_geo_geoaxis","toNode":"n_geo_lataxis","label":"inherits [EXTRACTED]","fromSide":"bottom","toSide":"top"},
+		{"id":"e_geo_gridlineradapter_protocol","fromNode":"n_geo_gridlineradapter","toNode":"n_protocol","label":"inherits [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_geo_gridlineradapter_geo_cartopygridlineradapter","fromNode":"n_geo_gridlineradapter","toNode":"n_geo_cartopygridlineradapter","label":"inherits [EXTRACTED]","fromSide":"left","toSide":"right"},
+		{"id":"e_geo_gridlineradapter_geo_basemapgridlineradapter","fromNode":"n_geo_gridlineradapter","toNode":"n_geo_basemapgridlineradapter","label":"inherits [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_protocol_geo_cartopygridlinerprotocol","fromNode":"n_protocol","toNode":"n_geo_cartopygridlinerprotocol","label":"inherits [EXTRACTED]","fromSide":"bottom","toSide":"top"},
+		{"id":"e_geo_geoaxes_geo_cartopyaxes","fromNode":"n_geo_geoaxes","toNode":"n_geo_cartopyaxes","label":"inherits [EXTRACTED]","fromSide":"bottom","toSide":"top"},
+		{"id":"e_geo_geoaxes_geo_basemapaxes","fromNode":"n_geo_geoaxes","toNode":"n_geo_basemapaxes","label":"inherits [EXTRACTED]","fromSide":"right","toSide":"left"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_plot_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_plot_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py","label":"imports_from [EXTRACTED]","fromSide":"right","toSide":"left"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_plot_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_utils_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_plot_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_utils_py","label":"imports_from [EXTRACTED]","fromSide":"bottom","toSide":"top"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_plot_py_plot_plotaxes","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_plot_py","toNode":"n_plot_plotaxes","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_polar_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_polar_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py","label":"imports_from [EXTRACTED]","fromSide":"right","toSide":"left"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_polar_py_polar_polaraxes","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_polar_py","toNode":"n_polar_polaraxes","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_shared_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_shared_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py","label":"imports_from [EXTRACTED]","fromSide":"right","toSide":"left"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_shared_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_utils_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_shared_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_utils_py","label":"imports_from [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_shared_py_shared_sharedaxes","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_shared_py","toNode":"n_shared_sharedaxes","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_three_py_three_threeaxes","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_axes_three_py","toNode":"n_three_threeaxes","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_three_threeaxes_axes3d","fromNode":"n_three_threeaxes","toNode":"n_axes3d","label":"inherits [EXTRACTED]","fromSide":"left","toSide":"right"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colorbar_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colorbar_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py","label":"imports_from [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colorbar_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ultralayout_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colorbar_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ultralayout_py","label":"imports_from [EXTRACTED]","fromSide":"right","toSide":"left"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colorbar_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_utils_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colorbar_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_utils_py","label":"imports_from [EXTRACTED]","fromSide":"left","toSide":"right"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colorbar_py_colorbar_textkw","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colorbar_py","toNode":"n_colorbar_textkw","label":"contains [EXTRACTED]","fromSide":"left","toSide":"right"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colorbar_py_colorbar_ultracolorbar","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colorbar_py","toNode":"n_colorbar_ultracolorbar","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py","label":"imports_from [EXTRACTED]","fromSide":"right","toSide":"left"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_utils_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_utils_py","label":"imports_from [EXTRACTED]","fromSide":"right","toSide":"left"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py_colors_colormap","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py","toNode":"n_colors_colormap","label":"contains [EXTRACTED]","fromSide":"right","toSide":"left"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py_colors_continuouscolormap","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py","toNode":"n_colors_continuouscolormap","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py_colors_discretecolormap","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py","toNode":"n_colors_discretecolormap","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py_colors_perceptualcolormap","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py","toNode":"n_colors_perceptualcolormap","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py_colors_discretenorm","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py","toNode":"n_colors_discretenorm","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py_colors_segmentednorm","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py","toNode":"n_colors_segmentednorm","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py_colors_divergingnorm","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py","toNode":"n_colors_divergingnorm","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py_colors_colorcache","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py","toNode":"n_colors_colorcache","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py_colors_colordatabase","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py","toNode":"n_colors_colordatabase","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py_colors_colormapdatabase","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_colors_py","toNode":"n_colors_colormapdatabase","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_colors_colormap_colors_continuouscolormap","fromNode":"n_colors_colormap","toNode":"n_colors_continuouscolormap","label":"inherits [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_colors_colormap_colors_discretecolormap","fromNode":"n_colors_colormap","toNode":"n_colors_discretecolormap","label":"inherits [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_colors_continuouscolormap_colors_perceptualcolormap","fromNode":"n_colors_continuouscolormap","toNode":"n_colors_perceptualcolormap","label":"inherits [EXTRACTED]","fromSide":"right","toSide":"left"},
+		{"id":"e_colors_colorcache_dict","fromNode":"n_colors_colorcache","toNode":"n_dict","label":"inherits [EXTRACTED]","fromSide":"bottom","toSide":"top"},
+		{"id":"e_dict_colors_colordatabase","fromNode":"n_dict","toNode":"n_colors_colordatabase","label":"inherits [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_dict_config_configurator","fromNode":"n_dict","toNode":"n_config_configurator","label":"inherits [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_colors_colordatabase_mutablemapping","fromNode":"n_colors_colordatabase","toNode":"n_mutablemapping","label":"inherits [EXTRACTED]","fromSide":"bottom","toSide":"top"},
+		{"id":"e_mutablemapping_config_configurator","fromNode":"n_mutablemapping","toNode":"n_config_configurator","label":"inherits [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py_config_configurator","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py","toNode":"n_config_configurator","label":"contains [EXTRACTED]","fromSide":"left","toSide":"right"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py_config_rationale_7","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py","toNode":"n_config_rationale_7","label":"rationale_for [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_constructor_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_constructor_py","label":"imports_from [EXTRACTED]","fromSide":"left","toSide":"right"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_figure_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_figure_py","label":"imports_from [EXTRACTED]","fromSide":"left","toSide":"right"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_gridspec_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_gridspec_py","label":"imports_from [EXTRACTED]","fromSide":"left","toSide":"right"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_legend_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_legend_py","label":"imports_from [EXTRACTED]","fromSide":"left","toSide":"right"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ticker_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_config_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ticker_py","label":"imports_from [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_constructor_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_utils_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_constructor_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_utils_py","label":"imports_from [EXTRACTED]","fromSide":"bottom","toSide":"top"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_constructor_py_constructor_refreshingregistry","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_constructor_py","toNode":"n_constructor_refreshingregistry","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_constructor_py_constructor_cycle","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_constructor_py","toNode":"n_constructor_cycle","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_figure_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_utils_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_figure_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_utils_py","label":"imports_from [EXTRACTED]","fromSide":"bottom","toSide":"top"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_figure_py_figure_figure","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_figure_py","toNode":"n_figure_figure","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_gridspec_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_utils_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_gridspec_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_utils_py","label":"imports_from [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_gridspec_py_gridspec_subplotspec","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_gridspec_py","toNode":"n_gridspec_subplotspec","label":"contains [EXTRACTED]","fromSide":"left","toSide":"right"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_gridspec_py_gridspec_gridspec","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_gridspec_py","toNode":"n_gridspec_gridspec","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_gridspec_py_gridspec_subplotgrid","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_gridspec_py","toNode":"n_gridspec_subplotgrid","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_gridspec_subplotgrid_mutablesequence","fromNode":"n_gridspec_subplotgrid","toNode":"n_mutablesequence","label":"inherits [EXTRACTED]","fromSide":"left","toSide":"right"},
+		{"id":"e_gridspec_subplotgrid_list","fromNode":"n_gridspec_subplotgrid","toNode":"n_list","label":"inherits [EXTRACTED]","fromSide":"bottom","toSide":"top"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_legend_py_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_utils_py","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_legend_py","toNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_utils_py","label":"imports_from [EXTRACTED]","fromSide":"left","toSide":"right"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_legend_py_legend_legendentry","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_legend_py","toNode":"n_legend_legendentry","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_legend_py_legend_featureartistlegendhandler","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_legend_py","toNode":"n_legend_featureartistlegendhandler","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_legend_py_legend_shapelygeometrylegendhandler","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_legend_py","toNode":"n_legend_shapelygeometrylegendhandler","label":"contains [EXTRACTED]","fromSide":"left","toSide":"right"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_legend_py_legend_geometryentrylegendhandler","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_legend_py","toNode":"n_legend_geometryentrylegendhandler","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_legend_py_legend_geometryentry","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_legend_py","toNode":"n_legend_geometryentry","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_legend_py_legend_legendinputs","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_legend_py","toNode":"n_legend_legendinputs","label":"contains [EXTRACTED]","fromSide":"left","toSide":"right"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_legend_py_legend_legend","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_legend_py","toNode":"n_legend_legend","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_legend_py_legend_ultralegend","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_legend_py","toNode":"n_legend_ultralegend","label":"contains [EXTRACTED]","fromSide":"left","toSide":"right"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_proj_py_proj_aitoff","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_proj_py","toNode":"n_proj_aitoff","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_proj_py_proj_hammer","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_proj_py","toNode":"n_proj_hammer","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_proj_py_proj_kavrayskiyvii","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_proj_py","toNode":"n_proj_kavrayskiyvii","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_proj_py_proj_winkeltripel","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_proj_py","toNode":"n_proj_winkeltripel","label":"contains [EXTRACTED]","fromSide":"left","toSide":"right"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_proj_py_proj_northpolarazimuthalequidistant","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_proj_py","toNode":"n_proj_northpolarazimuthalequidistant","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_proj_py_proj_southpolarazimuthalequidistant","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_proj_py","toNode":"n_proj_southpolarazimuthalequidistant","label":"contains [EXTRACTED]","fromSide":"left","toSide":"right"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_proj_py_proj_northpolarlambertazimuthalequalarea","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_proj_py","toNode":"n_proj_northpolarlambertazimuthalequalarea","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_proj_py_proj_southpolarlambertazimuthalequalarea","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_proj_py","toNode":"n_proj_southpolarlambertazimuthalequalarea","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_proj_py_proj_northpolargnomonic","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_proj_py","toNode":"n_proj_northpolargnomonic","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_proj_py_proj_southpolargnomonic","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_proj_py","toNode":"n_proj_southpolargnomonic","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_proj_aitoff_warpedrectangularprojection","fromNode":"n_proj_aitoff","toNode":"n_warpedrectangularprojection","label":"inherits [EXTRACTED]","fromSide":"bottom","toSide":"top"},
+		{"id":"e_warpedrectangularprojection_proj_hammer","fromNode":"n_warpedrectangularprojection","toNode":"n_proj_hammer","label":"inherits [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_warpedrectangularprojection_proj_kavrayskiyvii","fromNode":"n_warpedrectangularprojection","toNode":"n_proj_kavrayskiyvii","label":"inherits [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_warpedrectangularprojection_proj_winkeltripel","fromNode":"n_warpedrectangularprojection","toNode":"n_proj_winkeltripel","label":"inherits [EXTRACTED]","fromSide":"left","toSide":"right"},
+		{"id":"e_proj_northpolarazimuthalequidistant_azimuthalequidistant","fromNode":"n_proj_northpolarazimuthalequidistant","toNode":"n_azimuthalequidistant","label":"inherits [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_azimuthalequidistant_proj_southpolarazimuthalequidistant","fromNode":"n_azimuthalequidistant","toNode":"n_proj_southpolarazimuthalequidistant","label":"inherits [EXTRACTED]","fromSide":"bottom","toSide":"top"},
+		{"id":"e_proj_northpolarlambertazimuthalequalarea_lambertazimuthalequalarea","fromNode":"n_proj_northpolarlambertazimuthalequalarea","toNode":"n_lambertazimuthalequalarea","label":"inherits [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_lambertazimuthalequalarea_proj_southpolarlambertazimuthalequalarea","fromNode":"n_lambertazimuthalequalarea","toNode":"n_proj_southpolarlambertazimuthalequalarea","label":"inherits [EXTRACTED]","fromSide":"bottom","toSide":"top"},
+		{"id":"e_proj_northpolargnomonic_gnomonic","fromNode":"n_proj_northpolargnomonic","toNode":"n_gnomonic","label":"inherits [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_gnomonic_proj_southpolargnomonic","fromNode":"n_gnomonic","toNode":"n_proj_southpolargnomonic","label":"inherits [EXTRACTED]","fromSide":"bottom","toSide":"top"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py_scale_scale","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py","toNode":"n_scale_scale","label":"contains [EXTRACTED]","fromSide":"left","toSide":"right"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py_scale_linearscale","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py","toNode":"n_scale_linearscale","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py_scale_logitscale","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py","toNode":"n_scale_logitscale","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py_scale_logscale","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py","toNode":"n_scale_logscale","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py_scale_symmetricallogscale","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py","toNode":"n_scale_symmetricallogscale","label":"contains [EXTRACTED]","fromSide":"left","toSide":"right"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py_scale_funcscale","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py","toNode":"n_scale_funcscale","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py_scale_functransform","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py","toNode":"n_scale_functransform","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py_scale_powerscale","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py","toNode":"n_scale_powerscale","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py_scale_powertransform","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py","toNode":"n_scale_powertransform","label":"contains [EXTRACTED]","fromSide":"left","toSide":"right"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py_scale_invertedpowertransform","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py","toNode":"n_scale_invertedpowertransform","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py_scale_expscale","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py","toNode":"n_scale_expscale","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py_scale_exptransform","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py","toNode":"n_scale_exptransform","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py_scale_invertedexptransform","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py","toNode":"n_scale_invertedexptransform","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py_scale_mercatorlatitudescale","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py","toNode":"n_scale_mercatorlatitudescale","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py_scale_mercatorlatitudetransform","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py","toNode":"n_scale_mercatorlatitudetransform","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py_scale_invertedmercatorlatitudetransform","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py","toNode":"n_scale_invertedmercatorlatitudetransform","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py_scale_sinelatitudescale","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py","toNode":"n_scale_sinelatitudescale","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py_scale_sinelatitudetransform","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py","toNode":"n_scale_sinelatitudetransform","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py_scale_invertedsinelatitudetransform","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py","toNode":"n_scale_invertedsinelatitudetransform","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py_scale_cutoffscale","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py","toNode":"n_scale_cutoffscale","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py_scale_cutofftransform","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py","toNode":"n_scale_cutofftransform","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py_scale_inversescale","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py","toNode":"n_scale_inversescale","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py_scale_inversetransform","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_scale_py","toNode":"n_scale_inversetransform","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_scale_scale_scale_linearscale","fromNode":"n_scale_scale","toNode":"n_scale_linearscale","label":"inherits [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_scale_scale_scale_logitscale","fromNode":"n_scale_scale","toNode":"n_scale_logitscale","label":"inherits [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_scale_scale_scale_logscale","fromNode":"n_scale_scale","toNode":"n_scale_logscale","label":"inherits [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_scale_scale_scale_symmetricallogscale","fromNode":"n_scale_scale","toNode":"n_scale_symmetricallogscale","label":"inherits [EXTRACTED]","fromSide":"left","toSide":"right"},
+		{"id":"e_scale_scale_scale_funcscale","fromNode":"n_scale_scale","toNode":"n_scale_funcscale","label":"inherits [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_scale_scale_scale_powerscale","fromNode":"n_scale_scale","toNode":"n_scale_powerscale","label":"inherits [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_scale_scale_scale_expscale","fromNode":"n_scale_scale","toNode":"n_scale_expscale","label":"inherits [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_scale_scale_scale_mercatorlatitudescale","fromNode":"n_scale_scale","toNode":"n_scale_mercatorlatitudescale","label":"inherits [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_scale_scale_scale_sinelatitudescale","fromNode":"n_scale_scale","toNode":"n_scale_sinelatitudescale","label":"inherits [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_scale_scale_scale_cutoffscale","fromNode":"n_scale_scale","toNode":"n_scale_cutoffscale","label":"inherits [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_scale_scale_scale_inversescale","fromNode":"n_scale_scale","toNode":"n_scale_inversescale","label":"inherits [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_text_py_text_curvedtext","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_text_py","toNode":"n_text_curvedtext","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ticker_py_ticker_indexlocator","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ticker_py","toNode":"n_ticker_indexlocator","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ticker_py_ticker_discretelocator","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ticker_py","toNode":"n_ticker_discretelocator","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ticker_py_ticker_degreelocator","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ticker_py","toNode":"n_ticker_degreelocator","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ticker_py_ticker_longitudelocator","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ticker_py","toNode":"n_ticker_longitudelocator","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ticker_py_ticker_latitudelocator","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ticker_py","toNode":"n_ticker_latitudelocator","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ticker_py_ticker_autoformatter","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ticker_py","toNode":"n_ticker_autoformatter","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ticker_py_ticker_simpleformatter","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ticker_py","toNode":"n_ticker_simpleformatter","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ticker_py_ticker_indexformatter","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ticker_py","toNode":"n_ticker_indexformatter","label":"contains [EXTRACTED]","fromSide":"top","toSide":"bottom"},
+		{"id":"e_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ticker_py_ticker_sciformatter","fromNode":"n_home_runner_work_plot_study_plot_study_raw_ultraplot_ultraplot_ticker_py","toNode":"n_ticker_sciformatter","label":"contains [EXTRACTED]","fromSide":"left","toSide":"right"}
+	]
 }
