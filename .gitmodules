@@ -1,0 +1,3 @@
+[submodule "UltraPlot"]
+	path = UltraPlot
+	url = https://github.com/Ultraplot/UltraPlot.git
