@@ -51,7 +51,7 @@
 Cohesion: 0.12
 Nodes (23): CutoffScale, CutoffTransform, ExpScale, ExpTransform, FuncScale, FuncTransform, InverseScale, InverseTransform (+15 more)
 
-### Community 1 - "Tick Formatters & Locators"
+### Community 1 - "Tick Formatters & Locators"  
 Cohesion: 0.13
 Nodes (20): _PlateCarreeFormatter, AutoCFDatetimeFormatter, AutoCFDatetimeLocator, AutoFormatter, _CartopyFormatter, CFDatetimeFormatter, CFTimeConverter, DegreeFormatter (+12 more)
 
