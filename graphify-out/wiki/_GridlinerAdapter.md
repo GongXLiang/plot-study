@@ -5,12 +5,12 @@
 ## Connections by Relation
 
 ### contains
-- [[geo.py]] `EXTRACTED`
+- geo.py `EXTRACTED`
 
 ### inherits
-- [[Protocol]] `EXTRACTED`
-- [[_CartopyGridlinerAdapter]] `EXTRACTED`
-- [[_BasemapGridlinerAdapter]] `EXTRACTED`
+- Protocol `EXTRACTED`
+- [[_GridlinerAdapter]] `EXTRACTED`
+- [[_GridlinerAdapter]] `EXTRACTED`
 
 ---
 

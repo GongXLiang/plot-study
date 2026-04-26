@@ -5,13 +5,13 @@
 ## Connections by Relation
 
 ### contains
-- [[ticker.py]] `EXTRACTED`
+- ticker.py `EXTRACTED`
 
 ### inherits
-- [[object]] `EXTRACTED`
+- object `EXTRACTED`
 - [[LongitudeFormatter]] `EXTRACTED`
 - [[LatitudeFormatter]] `EXTRACTED`
-- [[DegreeFormatter]] `EXTRACTED`
+- DegreeFormatter `EXTRACTED`
 
 ---
 

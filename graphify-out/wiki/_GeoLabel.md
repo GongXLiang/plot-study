@@ -5,11 +5,11 @@
 ## Connections by Relation
 
 ### contains
-- [[geo.py]] `EXTRACTED`
+- geo.py `EXTRACTED`
 
 ### inherits
-- [[object]] `EXTRACTED`
-- [[_CartopyLabel]] `EXTRACTED`
+- object `EXTRACTED`
+- _CartopyLabel `EXTRACTED`
 
 ---
 

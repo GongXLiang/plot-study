@@ -5,7 +5,7 @@
 ## Connections by Relation
 
 ### contains
-- [[ticker.py]] `EXTRACTED`
+- ticker.py `EXTRACTED`
 
 ### inherits
 - [[_CartopyFormatter]] `EXTRACTED`

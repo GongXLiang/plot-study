@@ -9,18 +9,18 @@
 ## Communities
 (sorted by size, largest first)
 
-- [[Scale & Transform System]] — 24 nodes
-- [[Tick Formatters & Locators]] — 21 nodes
-- [[Geographic Axes (Cartopy/Basemap)]] — 16 nodes
-- [[Projection Definitions]] — 15 nodes
-- [[Colormap & Color Database]] — 14 nodes
-- [[Core API & Entry Points]] — 13 nodes
-- [[Legend System]] — 9 nodes
-- [[Cartesian Axes & Config]] — 8 nodes
-- [[Polar / 3D / Shared Axes]] — 8 nodes
-- [[GridSpec & Layout]] — 6 nodes
-- [[Colorbar & Layout Solver]] — 6 nodes
-- [[Base Axes]] — 5 nodes
+- [[Scale_&_Transform_System]] — 24 nodes
+- [[Tick_Formatters_&_Locators]] — 21 nodes
+- Geographic Axes (Cartopy/Basemap) — 16 nodes
+- [[Projection_Definitions]] — 15 nodes
+- [[Colormap_&_Color_Database]] — 14 nodes
+- [[Core_API_&_Entry_Points]] — 13 nodes
+- [[Legend_System]] — 9 nodes
+- [[Cartesian_Axes_&_Config]] — 8 nodes
+- Polar / 3D / Shared Axes — 8 nodes
+- [[GridSpec_&_Layout]] — 6 nodes
+- [[Colorbar_&_Layout_Solver]] — 6 nodes
+- [[Base_Axes]] — 5 nodes
 
 ## God Nodes
 (most connected concepts — the load-bearing abstractions)

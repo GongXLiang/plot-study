@@ -5,12 +5,12 @@
 ## Connections by Relation
 
 ### contains
-- [[geo.py]] `EXTRACTED`
+- geo.py `EXTRACTED`
 
 ### inherits
-- [[object]] `EXTRACTED`
-- [[_LonAxis]] `EXTRACTED`
-- [[_LatAxis]] `EXTRACTED`
+- object `EXTRACTED`
+- _LonAxis `EXTRACTED`
+- _LatAxis `EXTRACTED`
 
 ---
 

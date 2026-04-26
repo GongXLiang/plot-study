@@ -5,11 +5,11 @@
 ## Connections by Relation
 
 ### contains
-- [[colors.py]] `EXTRACTED`
+- colors.py `EXTRACTED`
 
 ### inherits
 - [[_Colormap]] `EXTRACTED`
-- [[PerceptualColormap]] `EXTRACTED`
+- [[_Colormap]] `EXTRACTED`
 
 ---
 

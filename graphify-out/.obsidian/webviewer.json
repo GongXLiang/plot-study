@@ -1,0 +1,7 @@
+{
+  "openExternalURLs": true,
+  "enableAdblocking": true,
+  "homepage": "https://www.bing.com/",
+  "searchEngine": "bing",
+  "customSearchEngine": "https://duckduckgo.com/?q=%s"
+}

@@ -1,0 +1,670 @@
+{
+  "_version": 4,
+  "theme": {
+    "defaultTheme": "light",
+    "rememberChoice": true,
+    "lastTheme": "light",
+    "showThemeButton": true,
+    "buttonStyle": "simple"
+  },
+  "width": {
+    "enableWidthControl": true,
+    "defaultWidth": 65,
+    "minWidth": 30,
+    "maxWidth": 100,
+    "enableAnimation": true,
+    "displayMode": "rem",
+    "lastWidth": 65,
+    "showWidthSlider": false,
+    "enablePresets": true,
+    "preset1": 50,
+    "preset2": 60,
+    "preset3": 80,
+    "preset4": 100
+  },
+  "banner": {
+    "enableBanner": false,
+    "bannerHeight": 200,
+    "contentStart": 190,
+    "yPosition": 50,
+    "xPosition": 50,
+    "bannerScale": 100,
+    "enableGradient": true,
+    "gradientStart": 60,
+    "enableFadeEffect": true,
+    "bannerFolder": "4_功能/头图库/",
+    "showBannerButton": true,
+    "rememberLastBanner": false,
+    "bannerButtonIcon": "image-plus",
+    "bannerButtonTooltip": "插入头图"
+  },
+  "cloze": {
+    "enableCloze": false,
+    "displayMode": "hide",
+    "displayCycleMode": "three",
+    "showClozeButton": true,
+    "syntaxMode": "mark",
+    "licenseManagementCollapsed": false,
+    "customSyntaxes": {
+      "HTML高亮语法": {
+        "startTag": "</mark>",
+        "endTag": "</mark>"
+      }
+    }
+  },
+  "editor": {
+    "showHeadingMarkers": false,
+    "headingMarkerStyle": "maple",
+    "showCodeLineNumbers": true,
+    "showHeadingUnderline": false,
+    "underlineStyle": "solid",
+    "underlineWidth": 0.5,
+    "showInternalLinkIcon": true,
+    "showExternalLinkIcon": true,
+    "linkIconSize": 0.7,
+    "enableHrStyle": true,
+    "hrStyleType": "simple-line",
+    "showHrIcon": false,
+    "hrIcon": "⭐",
+    "h1Marker": true,
+    "h2Marker": true,
+    "h3Marker": true,
+    "h4Marker": true,
+    "h5Marker": true,
+    "h6Marker": true,
+    "navHeaderAutoHide": true,
+    "enableMetadataCollapse": true,
+    "enableMetadataCollapseMemory": false,
+    "metadataCollapseStates": {},
+    "composerColoredMarkers": false,
+    "composerMonochromeMode": "theme",
+    "composerCustomColor": "#888888"
+  },
+  "cursorLine": {
+    "showCodeLineNumbers": true,
+    "enabled": true,
+    "lineStyle": "highlight",
+    "lineColor": "#ff6b6b",
+    "highlightOpacity": 0.08,
+    "lineNumberHighlight": false,
+    "lineNumberColor": "#c34044",
+    "cursorAnimation": "none",
+    "useTransform": true,
+    "cursorSpeed": 80,
+    "cursorColor": "#9873f7",
+    "trailLength": 5
+  },
+  "display": {
+    "windowBrightness": 0.95,
+    "editorBrightness": 1,
+    "textLineHeight": 20,
+    "headingTopSpacing": 9,
+    "headingBottomSpacing": 3,
+    "paragraphSpacing": 6,
+    "listSpacing": 2.5,
+    "textParagraphGap": 3.4,
+    "headingSpacing": 8,
+    "currentPreset": "default",
+    "modalPosition": {
+      "x": 48,
+      "y": 79
+    },
+    "customPresets": {
+      "夜间阅读": {
+        "windowBrightness": 0.95,
+        "editorBrightness": 1,
+        "fontSize": 14,
+        "textLineHeight": 21,
+        "headingTopSpacing": 9,
+        "headingBottomSpacing": 3,
+        "listSpacing": 2.5,
+        "paragraphSpacing": 6,
+        "colorScheme": "nord",
+        "enableCustomColors": true,
+        "enableRainbowTree": true,
+        "rainbowColorScheme": "soft",
+        "themeMode": "dark",
+        "editorWidth": 65,
+        "enablePaperTexture": true,
+        "paperTexturePreset": "universal",
+        "styleMode": "none",
+        "colorOverrides": {
+          "backgroundColor": null,
+          "textColor": null
+        },
+        "features": {
+          "hideRibbon": false,
+          "hideStatusBar": false,
+          "enableBanner": false,
+          "enablePaperTexture": true
+        }
+      },
+      "白天工作": {
+        "windowBrightness": 1,
+        "editorBrightness": 1,
+        "fontSize": 14,
+        "textLineHeight": 20,
+        "headingTopSpacing": 9,
+        "headingBottomSpacing": 3,
+        "listSpacing": 2.5,
+        "paragraphSpacing": 6,
+        "colorScheme": "solarized",
+        "enableCustomColors": true,
+        "enableRainbowTree": true,
+        "rainbowColorScheme": "vibrant",
+        "themeMode": "light",
+        "editorWidth": 65,
+        "enablePaperTexture": true,
+        "paperTexturePreset": "vintage",
+        "styleMode": "none",
+        "colorOverrides": {
+          "backgroundColor": null,
+          "textColor": null
+        },
+        "features": {
+          "hideRibbon": false,
+          "hideStatusBar": false,
+          "enableBanner": false,
+          "enablePaperTexture": true
+        }
+      },
+      "__default__": {
+        "windowBrightness": 0.95,
+        "editorBrightness": 1,
+        "fontSize": 14,
+        "textLineHeight": 20,
+        "headingTopSpacing": 9,
+        "headingBottomSpacing": 3,
+        "listSpacing": 2.5,
+        "textParagraphGap": 3.4,
+        "paperTexturePreset": "universal",
+        "colorScheme": "nord",
+        "enableCustomColors": true,
+        "enableRainbowTree": true,
+        "rainbowColorScheme": "custom:搭配",
+        "themeMode": "system",
+        "editorWidth": 65,
+        "styleMode": "none",
+        "colorOverrides": {
+          "backgroundColor": null,
+          "textColor": null
+        },
+        "features": {
+          "hideRibbon": false,
+          "hideStatusBar": false,
+          "enableBanner": false,
+          "enablePaperTexture": false
+        }
+      }
+    }
+  },
+  "paperTexture": {
+    "enableTexture": true,
+    "enableCanvas": false,
+    "currentPreset": "universal",
+    "enableGradientMask": true,
+    "gradientDepth": 35,
+    "customPresets": {},
+    "tempConfig": {}
+  },
+  "displayAdjust": {
+    "showDisplayAdjustButton": true
+  },
+  "image": {
+    "alignment": "center",
+    "enableRoundedCorners": false,
+    "enableImageTools": false,
+    "enableImageViewer": false,
+    "enableImageResizer": true,
+    "resizeStepSize": 25,
+    "resizeMenuStepSize": 50,
+    "resizePresets": [
+      300,
+      500,
+      800
+    ],
+    "enableImageAlignment": true,
+    "enableContextMenuAlign": true,
+    "enableCaption": true,
+    "captionFromAlt": true,
+    "enablePasteRename": true,
+    "pasteShowModal": true,
+    "pasteNameFormat": "YY.MM.DD_HHmm_",
+    "pasteCustomFormats": [],
+    "pasteFolderLocation": "currentSubfolderNote",
+    "pasteVaultAttachmentFolder": "./assets",
+    "pasteSubfolderName": "assets",
+    "pasteCustomSuffix": true,
+    "pasteRememberLocation": true,
+    "deleteImageConfirm": true,
+    "deleteImageLink": true
+  },
+  "mobileStatusBar": {
+    "enableMobileStatusBar": false
+  },
+  "callout": {
+    "enableCalloutBuilder": false,
+    "enableContextMenu": true,
+    "showCreateInEditorMenu": true,
+    "showInsertInEditorMenu": true,
+    "showPasteInEditorMenu": true,
+    "templates": [],
+    "showCreateRibbonIcon": true,
+    "showInsertRibbonIcon": true
+  },
+  "list": {
+    "enableCustomBullets": true,
+    "enableIndentationGuide": true,
+    "indentationGuideColor": "#1979c5"
+  },
+  "table": {
+    "enableTableEnhancements": true,
+    "enableFullWidth": true,
+    "enableLineNumbers": false,
+    "compactLineNumbers": false,
+    "hideEmptyLineBeforeTable": true,
+    "enableZebraStripes": true,
+    "zebraOpacity": 0.05,
+    "enableHoverHighlight": false,
+    "hoverColorMode": "auto",
+    "hoverOpacity": 0.08,
+    "hoverBgColor": "#e3f2fd",
+    "hoverBgColorDark": "#1e3a5f",
+    "enableHeaderStyle": true,
+    "headerBold": true,
+    "headerBackground": false,
+    "headerBgColor": "#eab58a",
+    "headerBgColorDark": "#434ddb",
+    "borderStyle": "all",
+    "borderRadius": 6,
+    "enableBorderEnhancement": false
+  },
+  "scrollbar": {
+    "autoHide": true
+  },
+  "writing": {
+    "showStatusBarIcon": true,
+    "buttonStyle": "simple"
+  },
+  "glassmorphism": {
+    "enable": false,
+    "blurAmount": 2,
+    "opacity": 0.3,
+    "shadowIntensity": 0.6,
+    "borderOpacity": 0.5
+  },
+  "dataview": {
+    "enableCustomStyle": false,
+    "headerFontSize": 14,
+    "cellFontSize": 12,
+    "textAlign": "left",
+    "borderStyle": "horizontal",
+    "enableTextWrap": true
+  },
+  "statusBar": {
+    "enableCustomStyle": false,
+    "lineHeight": 1,
+    "marginRight": 12
+  },
+  "buttonSpacing": {
+    "enabled": true,
+    "statusBar": {
+      "lineHeight": 0.8,
+      "marginRight": 15,
+      "itemSpacing": -15
+    },
+    "pageHeader": 0,
+    "ribbon": -2,
+    "titleBar": 0
+  },
+  "buttonHiding": {
+    "enableLeftRibbon": false,
+    "enableStatusBar": true,
+    "enableStatusBarHover": false,
+    "leftRibbon": [],
+    "statusBar": [
+      "sync"
+    ],
+    "statusBarOrder": [
+      "backlink",
+      "properties",
+      "editor-status",
+      "word-count",
+      "sync",
+      "viewtuner",
+      "obsidian-git"
+    ]
+  },
+  "vaultSwitcher": {
+    "enableVaultButton": true,
+    "vaultButtonPosition": "bottom",
+    "enableHelpButton": true,
+    "helpButtonPosition": "bottom",
+    "enableSettingsButton": true,
+    "settingsButtonPosition": "bottom"
+  },
+  "colors": {
+    "enableCustomColors": true,
+    "colorScheme": "nord",
+    "customSchemes": {
+      "自定义配色示例💎": {
+        "inlineTitleDark": "#88c0d0",
+        "inlineTitleLight": "#5e8d87",
+        "h1Dark": "#bf616a",
+        "h1Light": "#a4343a",
+        "h2Dark": "#ebcb8b",
+        "h2Light": "#b48e3c",
+        "h3Dark": "#a3be8c",
+        "h3Light": "#6f8f5f",
+        "h4Dark": "#b48ead",
+        "h4Light": "#8a6a87",
+        "h5Dark": "#8fbcbb",
+        "h5Light": "#5e8d87",
+        "h6Dark": "#81a1c1",
+        "h6Light": "#5e7a94",
+        "boldDark": "#bf6f6a",
+        "boldLight": "#a4434a",
+        "italicDark": "#a3be8c",
+        "italicLight": "#6f8f5f",
+        "boldItalicDark": "#d08770",
+        "boldItalicLight": "#a8614f",
+        "blockquoteBorderDark": "#b48ead",
+        "blockquoteBorderLight": "#8a6a87",
+        "linkDark": "#9C83E8",
+        "linkLight": "#7461b8",
+        "linkHoverDark": "#C5B7FB",
+        "linkHoverLight": "#9485d4",
+        "linkExternalDark": "#9C83E8",
+        "linkExternalLight": "#7461b8",
+        "linkExternalHoverDark": "#C5B7FB",
+        "linkExternalHoverLight": "#9485d4",
+        "linkUnresolvedDark": "#bf616a",
+        "linkUnresolvedLight": "#a4343a",
+        "inlineCodeBgLight": "#eceff4",
+        "inlineCodeBgDark": "#2e3440",
+        "inlineCodeTextLight": "#bf616a",
+        "inlineCodeTextDark": "#d08770"
+      }
+    }
+  },
+  "icons": {
+    "enableIcons": true,
+    "enableRainbowTree": true,
+    "rainbowColorScheme": "custom:搭配",
+    "rainbowCustomSchemes": {
+      "搭配": {
+        "dark": [
+          "255, 59, 48",
+          "0, 122, 255",
+          "250, 22, 254",
+          "255, 149, 0",
+          "175, 82, 222",
+          "90, 200, 250",
+          "255, 45, 85"
+        ],
+        "light": [
+          "255, 0, 72",
+          "30, 26, 234",
+          "147, 1, 1",
+          "255, 150, 0",
+          "17, 146, 172",
+          "112, 4, 185",
+          "178, 31, 59"
+        ]
+      }
+    },
+    "enableFolderIcons": false,
+    "limitFolderDepth": true,
+    "enableFileIcons": false,
+    "folderIcons": [
+      {
+        "path": "script",
+        "lucideIcon": {
+          "name": "folder-tree",
+          "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" > <path d=\"M20 10a1 1 0 0 0 1-1V6a1 1 0 0 0-1-1h-2.5a1 1 0 0 1-.8-.4l-.9-1.2A1 1 0 0 0 15 3h-2a1 1 0 0 0-1 1v5a1 1 0 0 0 1 1Z\" /> <path d=\"M20 21a1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1h-2.9a1 1 0 0 1-.88-.55l-.42-.85a1 1 0 0 0-.92-.6H13a1 1 0 0 0-1 1v5a1 1 0 0 0 1 1Z\" /> <path d=\"M3 5a2 2 0 0 0 2 2h3\" /> <path d=\"M3 3v13a2 2 0 0 0 2 2h3\" /> </svg>"
+        }
+      },
+      {
+        "path": "raw",
+        "lucideIcon": {
+          "name": "folder-cog",
+          "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" > <path d=\"M10.3 20H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h3.98a2 2 0 0 1 1.69.9l.66 1.2A2 2 0 0 0 12 6h8a2 2 0 0 1 2 2v3.3\" /> <path d=\"m14.305 19.53.923-.382\" /> <path d=\"m15.228 16.852-.923-.383\" /> <path d=\"m16.852 15.228-.383-.923\" /> <path d=\"m16.852 20.772-.383.924\" /> <path d=\"m19.148 15.228.383-.923\" /> <path d=\"m19.53 21.696-.382-.924\" /> <path d=\"m20.772 16.852.924-.383\" /> <path d=\"m20.772 19.148.924.383\" /> <circle cx=\"18\" cy=\"18\" r=\"3\" /> </svg>"
+        }
+      },
+      {
+        "path": "wiki",
+        "lucideIcon": {
+          "name": "folder-search",
+          "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" > <path d=\"M10.7 20H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h3.9a2 2 0 0 1 1.69.9l.81 1.2a2 2 0 0 0 1.67.9H20a2 2 0 0 1 2 2v4.1\" /> <path d=\"m21 21-1.9-1.9\" /> <circle cx=\"17\" cy=\"17\" r=\"3\" /> </svg>"
+        }
+      },
+      {
+        "path": "graphify",
+        "lucideIcon": {
+          "name": "folder-sync",
+          "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" > <path d=\"M9 20H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h3.9a2 2 0 0 1 1.69.9l.81 1.2a2 2 0 0 0 1.67.9H20a2 2 0 0 1 2 2v.5\" /> <path d=\"M12 10v4h4\" /> <path d=\"m12 14 1.535-1.605a5 5 0 0 1 8 1.5\" /> <path d=\"M22 22v-4h-4\" /> <path d=\"m22 18-1.535 1.605a5 5 0 0 1-8-1.5\" /> </svg>"
+        }
+      },
+      {
+        "path": "1_测试",
+        "lucideIcon": {
+          "name": "activity",
+          "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" > <path d=\"M22 12h-2.48a2 2 0 0 0-1.93 1.46l-2.35 8.36a.25.25 0 0 1-.48 0L9.24 2.18a.25.25 0 0 0-.48 0l-2.35 8.36A2 2 0 0 1 4.49 12H2\" /> </svg>"
+        }
+      }
+    ],
+    "fileTypeIcons": [
+      {
+        "extensions": [
+          ".txt",
+          ".ini"
+        ],
+        "emoji": "📄",
+        "name": "文本文件"
+      },
+      {
+        "extensions": [
+          ".md"
+        ],
+        "emoji": "📝",
+        "name": "Markdown"
+      },
+      {
+        "name": "图片",
+        "extensions": [
+          ".png",
+          ".jpg",
+          ".jpeg",
+          ".gif"
+        ],
+        "lucideIcon": {
+          "name": "image",
+          "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" > <rect width=\"18\" height=\"18\" x=\"3\" y=\"3\" rx=\"2\" ry=\"2\" /> <circle cx=\"9\" cy=\"9\" r=\"2\" /> <path d=\"m21 15-3.086-3.086a2 2 0 0 0-2.828 0L6 21\" /> </svg>"
+        }
+      },
+      {
+        "extensions": [
+          ".docx"
+        ],
+        "emoji": "📑",
+        "name": "Word"
+      },
+      {
+        "extensions": [
+          ".xlsx"
+        ],
+        "emoji": "📈",
+        "name": "Excel"
+      },
+      {
+        "extensions": [
+          ".ppt"
+        ],
+        "emoji": "📊",
+        "name": "PPT"
+      },
+      {
+        "extensions": [
+          ".pdf"
+        ],
+        "emoji": "📋",
+        "name": "PDF"
+      },
+      {
+        "extensions": [
+          ".zip",
+          ".rar",
+          ".7z"
+        ],
+        "emoji": "🗜️",
+        "name": "压缩包"
+      },
+      {
+        "extensions": [
+          ".canvas"
+        ],
+        "emoji": "🎨",
+        "name": "Canvas"
+      },
+      {
+        "extensions": [
+          ".mp4",
+          ".mov",
+          ".avi",
+          ".mkv",
+          ".wmv"
+        ],
+        "emoji": "🎥",
+        "name": "视频"
+      },
+      {
+        "extensions": [
+          ".mp3",
+          ".wav",
+          ".ogg",
+          ".flac",
+          ".aac"
+        ],
+        "emoji": "🎵",
+        "name": "音频"
+      },
+      {
+        "name": "代码",
+        "extensions": [
+          ".js",
+          ".ahk",
+          ".ts",
+          ".jsx",
+          ".tsx",
+          ".html",
+          ".css",
+          ".scss",
+          ".py",
+          ".java",
+          ".cpp",
+          ".c",
+          ".php",
+          ".rb",
+          ".go",
+          ".sh",
+          ".bat",
+          ".cmd",
+          ".ps1",
+          ".py",
+          ".ipynb"
+        ],
+        "lucideIcon": {
+          "name": "file-code-2",
+          "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" > <path d=\"M4 22h14a2 2 0 0 0 2-2V7l-5-5H6a2 2 0 0 0-2 2v4\" /> <path d=\"M14 2v4a2 2 0 0 0 2 2h4\" /> <path d=\"m5 12-3 3 3 3\" /> <path d=\"m9 18 3-3-3-3\" /> </svg>"
+        }
+      },
+      {
+        "name": "文本",
+        "extensions": [
+          ".md"
+        ],
+        "lucideIcon": {
+          "name": "file-pen-line",
+          "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" > <path d=\"m18 5-2.414-2.414A2 2 0 0 0 14.172 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2\" /> <path d=\"M21.378 12.626a1 1 0 0 0-3.004-3.004l-4.01 4.012a2 2 0 0 0-.506.854l-.837 2.87a.5.5 0 0 0 .62.62l2.87-.837a2 2 0 0 0 .854-.506z\" /> <path d=\"M8 18h1\" /> </svg>"
+        }
+      }
+    ],
+    "enableNavIndentationGuide": true,
+    "navIndentationGuideColor": "#1979c5",
+    "navGuideIntegratedWithRainbow": true,
+    "navGuideAlphaLight": 0.5,
+    "navGuideAlphaDark": 0.45
+  },
+  "headingCenter": {
+    "enableHeadingCenter": true,
+    "h1Center": false,
+    "h2Center": false,
+    "h3Center": false,
+    "h4Center": false,
+    "h5Center": false,
+    "h6Center": false,
+    "inlineTitleCenter": true
+  },
+  "lucideIcons": {
+    "enableLucideIcons": false,
+    "autoLoadOnStartup": true,
+    "version": "v0.548.0",
+    "totalIcons": 1640,
+    "lastLoadTime": 1776668248338,
+    "showIconBrowser": true,
+    "iconsPerPage": 50
+  },
+  "settingsView": {
+    "enableQuickOpen": true,
+    "openSettingsMode": "tab"
+  },
+  "ribbon": {
+    "autoHideLeft": false
+  },
+  "iconHide": {
+    "mode": false,
+    "hiddenIcons": []
+  },
+  "license": {
+    "proLicenseKey": "VT_PRO_2026_P3R8K5|gongxl21@163.com|1776586832751|XMcyfzY0zwq4kLW7GpZkjM3y1xMsGzVXeNwufEilihNIOD2tay/ssKpAEiHWT6cYyimd2ZhTpBTJmIghFiEua6O4ZFY9qtaQJGffeBG5q1eCfDTW0TlEE8gF8fD9I17ad3x155rwVxyeRfjj4QiXwMf/omD/rndvc7RSKhtprMh7hWsYr7ibhBBlZRB59tzDCItKwSaAMavPqO9urvXVRFFToRyij5PNarFSx/QB+F7toxT6hkZOeubzVijzA/ANOW0zJvzVDhN9SZQhg+vzgFUvplv7D6JFskx4VG9+EWi973X8mSReLBeqDhj4rhQpALrAcjC/+msC6FdmIlWrZA==",
+    "userEmail": "gongxl21@163.com",
+    "activatedAt": "2026-04-19T08:28:35.611Z",
+    "tier": "pro",
+    "lastVerified": "2026-04-19T08:28:35.611Z",
+    "devices": [
+      {
+        "id": "00000000514bf1d2",
+        "name": "Windows | WIKI-vault",
+        "os": "Windows 10/11",
+        "activatedAt": "2026-04-19T08:29:34.491Z",
+        "lastUsed": "2026-04-21T14:30:46.461Z"
+      },
+      {
+        "id": "000000006066a4ac",
+        "name": "Windows | graphify-out",
+        "os": "Windows 10/11",
+        "activatedAt": "2026-04-26T10:36:50.003Z",
+        "lastUsed": "2026-04-26T10:36:50.003Z"
+      }
+    ],
+    "currentDeviceId": "000000006066a4ac"
+  },
+  "timeScene": {
+    "enableTimeScene": false,
+    "enableOnStart": true,
+    "enableRealtime": true,
+    "checkInterval": 60,
+    "timeRules": [
+      {
+        "startTime": "08:00",
+        "endTime": "17:00",
+        "sceneName": "白天工作"
+      },
+      {
+        "startTime": "17:00",
+        "endTime": "08:00",
+        "sceneName": "夜间阅读"
+      }
+    ]
+  }
+}

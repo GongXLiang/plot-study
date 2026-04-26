@@ -5,11 +5,11 @@
 ## Connections by Relation
 
 ### contains
-- [[geo.py]] `EXTRACTED`
+- geo.py `EXTRACTED`
 
 ### inherits
-- [[_CartopyAxes]] `EXTRACTED`
-- [[_BasemapAxes]] `EXTRACTED`
+- _CartopyAxes `EXTRACTED`
+- _BasemapAxes `EXTRACTED`
 
 ---
 

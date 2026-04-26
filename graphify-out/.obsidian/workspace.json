@@ -1,73 +1,74 @@
 {
   "main": {
-    "id": "0050713eecd203af",
+    "id": "f80d0bc8cdcb7747",
     "type": "split",
     "children": [
       {
-        "id": "835d8e089c2cb601",
+        "id": "7f9e29d1829495d9",
         "type": "tabs",
         "children": [
           {
-            "id": "3e1de5b36c8ba4c5",
+            "id": "22af1fc3674d1e27",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          },
+          {
+            "id": "20d857e828f0fcb8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          },
+          {
+            "id": "15a0fbe35281b8ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/Colormap_&_Color_Database.md",
+                "file": "wiki/ContinuousColormap.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Colormap_&_Color_Database"
+              "title": "ContinuousColormap"
             }
           },
           {
-            "id": "b96e29ce3607bf97",
+            "id": "fe32bfda832d75ae",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "obsidian/graph.canvas",
-                "viewState": {
-                  "x": 2100,
-                  "y": 1060,
-                  "zoom": -1.0599349702542316
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "graph"
-            }
-          },
-          {
-            "id": "31960daa0075fcd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GRAPH_REPORT.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "GRAPH_REPORT"
+              "title": "新标签页"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "8f4c7e4480694528",
+    "id": "426395c25a651f80",
     "type": "split",
     "children": [
       {
-        "id": "614ef5c38c3aae26",
+        "id": "9924b9db6b9fa5aa",
         "type": "tabs",
+        "dimension": 76.64756446991404,
         "children": [
           {
-            "id": "a1d96764c4c2a31c",
+            "id": "539495baf2a37a62",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -80,12 +81,27 @@
             }
           },
           {
-            "id": "4c1270845d800019",
+            "id": "d752c7a065e23906",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "wiki/ContinuousColormap.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "ContinuousColormap 的大纲"
+            }
+          },
+          {
+            "id": "b793808af7005138",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "McPherson",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +113,7 @@
             }
           },
           {
-            "id": "0d60a224048cf684",
+            "id": "131380cddb234cfc",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -107,26 +123,53 @@
             }
           }
         ]
+      },
+      {
+        "id": "c57aa8481808aff3",
+        "type": "tabs",
+        "dimension": 23.35243553008596,
+        "children": [
+          {
+            "id": "8ac9192bf306a777",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "963f858d2ffd6a90",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "recent-files"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 273.5
   },
   "right": {
-    "id": "546380dc3a6f04f3",
+    "id": "b49521433baddce4",
     "type": "split",
     "children": [
       {
-        "id": "b9d877eefe355836",
+        "id": "545faca128af5ee6",
         "type": "tabs",
         "children": [
           {
-            "id": "3dbc5693f6acc9d8",
+            "id": "2281bf8fc5309b34",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian/graph.canvas",
+                "file": "raw/reference/Changes in Atlantic Water Circulation Patterns and Volume Transports North of Svalbard Over the Last 12 Years (2008–2020)--Part1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,25 +179,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "graph 的反向链接列表"
+              "title": "Changes in Atlantic Water Circulation Patterns and Volume Transports North of Svalbard Over the Last 12 Years (2008–2020)--Part1 的反向链接列表"
             }
           },
           {
-            "id": "d439beef56d4a0d6",
+            "id": "f1f002ef6083db94",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian/graph.canvas",
+                "file": "欢迎.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "graph 的出链列表"
+              "title": "欢迎 的出链列表"
             }
           },
           {
-            "id": "76355ada6a7fe479",
+            "id": "8e7cf25b5b8ffeb1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -169,7 +212,7 @@
             }
           },
           {
-            "id": "00bb8c0be96a46a1",
+            "id": "d854dd238be79fb1",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -183,26 +226,31 @@
             }
           },
           {
-            "id": "2ed985ddc0274f7e",
+            "id": "832663966006c5e4",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "obsidian/graph.canvas",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "graph 的大纲"
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          },
+          {
+            "id": "a482e6ddc8a9cbf6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 615.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,20 +260,62 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "claudian:Open Claudian": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "b96e29ce3607bf97",
+  "active": "15a0fbe35281b8ce",
   "lastOpenFiles": [
-    "GRAPH_REPORT.md",
-    "wiki/Colormap_&_Color_Database.md",
-    "obsidian/graph.canvas",
-    "obsidian/LatitudeLocator.md",
-    "obsidian/Legend.md",
-    "obsidian/legend.py.md",
-    "obsidian/GeometryEntry.md",
-    "obsidian/GridSpec.md",
-    "obsidian/_COMMUNITY_Base Axes.md",
-    "wiki/_Colormap.md"
+    "wiki/_Colormap.md",
+    "学术论文/巩新亮-学术论文/AW断面输送通量时序图绘图细节文档.md",
+    "raw/reference/Fluctuating Atlantic inflows modulate Arctic atlantification.md",
+    "raw/reference/Decades of change Warming trends and hydrographic variability of Atlantic Water as observed in the west Spitsbergen current (1997–2024).md",
+    "raw/reference/Changes in Atlantic Water Circulation Patterns and Volume Transports North of Svalbard Over the Last 12 Years (2008–2020)--Part1.md",
+    "raw/reference/Pulses of Cold Atlantic Water in the Arctic Ocean From an Ocean Model Simulation--Part1.md",
+    "学术论文/巩新亮-学术论文/北极大西洋水暖脉冲事件研究_论文初稿.md",
+    "paper/output/FS_AW_core_optimized/pulse_figures/fs_aw_core_pulse_3panels.png",
+    "raw/reference/An Arctic Ocean Thermohaline Dataset - Scientific Data.md",
+    "学术论文/巩新亮-学术论文/学术论文大纲框架.md",
+    "raw/reference/Pulses of Cold Atlantic Water in the Arctic Ocean From an Ocean Model Simulation--Part2.md",
+    "paper/output/FS_AW_core_optimized/pulse_figures/fs_aw_core_pulse_3panel.png",
+    "paper/output/FS_AW_core_optimized/pulse_figures/fs_aw_core_reanalysis_mooring_correlation.csv",
+    "paper/output/FS_AW_core_optimized/pulse_figures/fs_aw_core_pulse_events.csv",
+    "paper/output/FS_AW_core_optimized/pulse_figures/fs_aw_core_processed_for_plot.csv",
+    "paper/output/FS_AW_core_optimized/pulse_figures",
+    "paper/output/FS_AW_core/pulse_figures/20B9FA20",
+    "paper/output/FS_AW_core_optimized/compare_mooring_vs_reanalysis_awct.png",
+    "paper/output/FS_AW_core_optimized/rean_fram_section_aw_core_monthly.csv",
+    "paper/output/FS_AW_core_optimized/rean_fram_section_aw_core_grid_monthly.nc",
+    "paper/output/FS_AW_core_optimized/mooring_wsc_core_monthly.csv",
+    "raw/One more step toward a warmer Arctic.md",
+    "paper/output/FS_AW_core_optimized",
+    "paper/__pycache__/提取优化.cpython-312.pyc",
+    "paper/output/FS_AW_core/compare_mooring_vs_reanalysis_awct_取断面最大值.png",
+    "paper/output/FS_AW_core/pulse_figures/fs_aw_core_pulse_3panel.png",
+    "paper/output/FS_AW_core/compare_mooring_vs_reanalysis_awct.png",
+    "paper/output/FS_AW_core/pulse_figures/温度阈值放宽到1℃.png",
+    "paper/output/FS_AW_core/pulse_figures/fs_aw_core_pulse_3panel_2℃.png",
+    "paper/output/FS_AW_core/compare_mooring_vs_reanalysis_awct_2℃.png",
+    "paper/output/FS_AW_core/compare_mooring_vs_reanalysis_awct_test1.png",
+    "AGENTS.md",
+    "graphify-out/GRAPH_REPORT.md",
+    "_COMMUNITY_Community 0.md",
+    "学术论文/巩新亮-学术论文/FS断面AWCT时序图_绘图技术规范.md",
+    "raw/reference/Distinct Impacts of Increased Atlantic and Pacific Ocean Heat Transport on Arctic Ocean Warming and Sea Ice Decline.md",
+    "raw/reference/Freshwater transport variation through Fram and Davis Strait influenced by atmospheric circulation.md",
+    "raw/reference/Greater role for Atlantic inflows on sea-ice loss in the Eurasian Basin of the Arctic Ocean.md",
+    "学术论文/巩新亮-学术论文/学术论文写作思路.md",
+    "CLAUDE.md",
+    "custom heading colors --test.md",
+    "学术论文/巩新亮-学术论文/full.md",
+    "学术论文/巩新亮-学术论文/之前版本/full.md",
+    "学术论文/巩新亮-学术论文/MEMORY.md",
+    "学术论文/巩新亮-学术论文/之前版本/MEMORY.md",
+    "学术论文/巩新亮-学术论文/之前版本/AI_修订版_v2.md",
+    "graphify-out/obsidian/graph.canvas",
+    "test/未命名.canvas"
   ]
 }

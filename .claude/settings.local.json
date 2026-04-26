@@ -10,7 +10,9 @@
       "Read(//d/GongXL/Github/**)",
       "Bash(mv Study plot-study)",
       "PowerShell(Rename-Item *)",
-      "Bash(git mv *)"
+      "Bash(git mv *)",
+      "Bash(git merge *)",
+      "Bash(python *)"
     ]
   }
 }
