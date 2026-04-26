@@ -1,0 +1,34 @@
+{
+  "claude-plugins-official": {
+    "source": {
+      "source": "github",
+      "repo": "anthropics/claude-plugins-official"
+    },
+    "installLocation": "C:\\Users\\GongXL\\.claude\\plugins\\marketplaces\\claude-plugins-official",
+    "lastUpdated": "2026-04-26T09:23:00.453Z"
+  },
+  "obsidian-skills": {
+    "source": {
+      "source": "github",
+      "repo": "kepano/obsidian-skills"
+    },
+    "installLocation": "C:\\Users\\GongXL\\.claude\\plugins\\marketplaces\\obsidian-skills",
+    "lastUpdated": "2026-04-12T14:44:22.681Z"
+  },
+  "axton-obsidian-visual-skills": {
+    "source": {
+      "source": "github",
+      "repo": "axtonliu/axton-obsidian-visual-skills"
+    },
+    "installLocation": "C:\\Users\\GongXL\\.claude\\plugins\\marketplaces\\axton-obsidian-visual-skills",
+    "lastUpdated": "2026-04-03T15:17:14.631Z"
+  },
+  "claude-scientific-writer": {
+    "source": {
+      "source": "github",
+      "repo": "K-Dense-AI/claude-scientific-writer"
+    },
+    "installLocation": "C:\\Users\\GongXL\\.claude\\plugins\\marketplaces\\claude-scientific-writer",
+    "lastUpdated": "2026-04-08T12:12:31.123Z"
+  }
+}

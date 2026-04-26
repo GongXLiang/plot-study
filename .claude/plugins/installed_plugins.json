@@ -1,0 +1,272 @@
+{
+  "version": 2,
+  "plugins": {
+    "pyright-lsp@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\GongXL\\.claude\\plugins\\cache\\claude-plugins-official\\pyright-lsp\\1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-04-08T11:48:53.461Z",
+        "lastUpdated": "2026-04-08T11:48:53.461Z",
+        "gitCommitSha": "183a6ca35d5f6b4ba99bf89777bd0aa432fa3d2e"
+      }
+    ],
+    "context7@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\GongXL\\.claude\\plugins\\cache\\claude-plugins-official\\context7\\unknown",
+        "version": "unknown",
+        "installedAt": "2026-04-08T11:40:04.044Z",
+        "lastUpdated": "2026-04-26T09:23:00.522Z",
+        "gitCommitSha": "183a6ca35d5f6b4ba99bf89777bd0aa432fa3d2e"
+      }
+    ],
+    "superpowers@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\GongXL\\.claude\\plugins\\cache\\claude-plugins-official\\superpowers\\5.0.7",
+        "version": "5.0.7",
+        "installedAt": "2026-04-08T11:40:03.979Z",
+        "lastUpdated": "2026-04-08T11:40:03.979Z",
+        "gitCommitSha": "917e5f53b16b115b70a3a355ed5f4993b9f8b73d"
+      }
+    ],
+    "code-review@claude-plugins-official": [
+      {
+        "scope": "project",
+        "projectPath": "D:\\GongXL\\Github\\notes_vault",
+        "installPath": "C:\\Users\\GongXL\\.claude\\plugins\\cache\\claude-plugins-official\\code-review\\104d39be10b7",
+        "version": "104d39be10b7",
+        "installedAt": "2026-04-08T09:36:25.757Z",
+        "lastUpdated": "2026-04-08T13:56:57.877Z",
+        "gitCommitSha": "183a6ca35d5f6b4ba99bf89777bd0aa432fa3d2e"
+      }
+    ],
+    "skill-creator@claude-plugins-official": [
+      {
+        "scope": "project",
+        "projectPath": "D:\\GongXL\\Github\\notes_vault",
+        "installPath": "C:\\Users\\GongXL\\.claude\\plugins\\cache\\claude-plugins-official\\skill-creator\\104d39be10b7",
+        "version": "104d39be10b7",
+        "installedAt": "2026-04-08T11:40:04.101Z",
+        "lastUpdated": "2026-04-08T13:56:57.923Z",
+        "gitCommitSha": "183a6ca35d5f6b4ba99bf89777bd0aa432fa3d2e"
+      }
+    ],
+    "claude-md-management@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\GongXL\\.claude\\plugins\\cache\\claude-plugins-official\\claude-md-management\\1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-04-08T11:40:04.133Z",
+        "lastUpdated": "2026-04-08T11:40:04.133Z",
+        "gitCommitSha": "183a6ca35d5f6b4ba99bf89777bd0aa432fa3d2e"
+      }
+    ],
+    "code-simplifier@claude-plugins-official": [
+      {
+        "scope": "project",
+        "projectPath": "D:\\GongXL\\Github\\notes_vault",
+        "installPath": "C:\\Users\\GongXL\\.claude\\plugins\\cache\\claude-plugins-official\\code-simplifier\\1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-04-08T11:40:04.067Z",
+        "lastUpdated": "2026-04-08T13:50:02.716Z",
+        "gitCommitSha": "183a6ca35d5f6b4ba99bf89777bd0aa432fa3d2e"
+      }
+    ],
+    "feature-dev@claude-plugins-official": [
+      {
+        "scope": "project",
+        "projectPath": "D:\\GongXL\\Github\\notes_vault",
+        "installPath": "C:\\Users\\GongXL\\.claude\\plugins\\cache\\claude-plugins-official\\feature-dev\\104d39be10b7",
+        "version": "104d39be10b7",
+        "installedAt": "2026-04-01T02:34:14.090Z",
+        "lastUpdated": "2026-04-08T13:56:57.896Z",
+        "gitCommitSha": "183a6ca35d5f6b4ba99bf89777bd0aa432fa3d2e"
+      }
+    ],
+    "frontend-design@claude-plugins-official": [
+      {
+        "scope": "project",
+        "projectPath": "D:\\GongXL\\Github\\notes_vault",
+        "installPath": "C:\\Users\\GongXL\\.claude\\plugins\\cache\\claude-plugins-official\\frontend-design\\104d39be10b7",
+        "version": "104d39be10b7",
+        "installedAt": "2026-04-01T02:38:01.060Z",
+        "lastUpdated": "2026-04-08T13:56:57.886Z",
+        "gitCommitSha": "183a6ca35d5f6b4ba99bf89777bd0aa432fa3d2e"
+      }
+    ],
+    "hookify@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\GongXL\\.claude\\plugins\\cache\\claude-plugins-official\\hookify\\unknown",
+        "version": "unknown",
+        "installedAt": "2026-04-01T02:38:40.208Z",
+        "lastUpdated": "2026-04-26T09:23:00.550Z",
+        "gitCommitSha": "183a6ca35d5f6b4ba99bf89777bd0aa432fa3d2e"
+      }
+    ],
+    "claude-code-setup@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\GongXL\\.claude\\plugins\\cache\\claude-plugins-official\\claude-code-setup\\1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-04-08T11:48:53.374Z",
+        "lastUpdated": "2026-04-08T11:48:53.374Z",
+        "gitCommitSha": "183a6ca35d5f6b4ba99bf89777bd0aa432fa3d2e"
+      }
+    ],
+    "pr-review-toolkit@claude-plugins-official": [
+      {
+        "scope": "project",
+        "projectPath": "D:\\GongXL\\Github\\notes_vault",
+        "installPath": "C:\\Users\\GongXL\\.claude\\plugins\\cache\\claude-plugins-official\\pr-review-toolkit\\104d39be10b7",
+        "version": "104d39be10b7",
+        "installedAt": "2026-04-08T11:48:53.412Z",
+        "lastUpdated": "2026-04-08T13:56:57.900Z",
+        "gitCommitSha": "183a6ca35d5f6b4ba99bf89777bd0aa432fa3d2e"
+      }
+    ],
+    "commit-commands@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\GongXL\\.claude\\plugins\\cache\\claude-plugins-official\\commit-commands\\unknown",
+        "version": "unknown",
+        "installedAt": "2026-04-01T02:43:53.882Z",
+        "lastUpdated": "2026-04-26T09:23:00.532Z",
+        "gitCommitSha": "183a6ca35d5f6b4ba99bf89777bd0aa432fa3d2e"
+      }
+    ],
+    "ralph-loop@claude-plugins-official": [
+      {
+        "scope": "project",
+        "projectPath": "D:\\GongXL\\Github\\notes_vault",
+        "installPath": "C:\\Users\\GongXL\\.claude\\plugins\\cache\\claude-plugins-official\\ralph-loop\\1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-04-01T02:44:28.323Z",
+        "lastUpdated": "2026-04-08T13:50:02.716Z",
+        "gitCommitSha": "183a6ca35d5f6b4ba99bf89777bd0aa432fa3d2e"
+      }
+    ],
+    "security-guidance@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\GongXL\\.claude\\plugins\\cache\\claude-plugins-official\\security-guidance\\unknown",
+        "version": "unknown",
+        "installedAt": "2026-04-01T12:42:47.997Z",
+        "lastUpdated": "2026-04-26T09:23:00.528Z",
+        "gitCommitSha": "183a6ca35d5f6b4ba99bf89777bd0aa432fa3d2e"
+      }
+    ],
+    "typescript-lsp@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\GongXL\\.claude\\plugins\\cache\\claude-plugins-official\\typescript-lsp\\1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-04-01T12:43:34.810Z",
+        "lastUpdated": "2026-04-01T12:43:34.810Z",
+        "gitCommitSha": "183a6ca35d5f6b4ba99bf89777bd0aa432fa3d2e"
+      }
+    ],
+    "obsidian@obsidian-skills": [
+      {
+        "scope": "project",
+        "projectPath": "D:\\GongXL\\Github\\notes_vault",
+        "installPath": "C:\\Users\\GongXL\\.claude\\plugins\\cache\\obsidian-skills\\obsidian\\1.0.1",
+        "version": "1.0.1",
+        "installedAt": "2026-04-08T11:36:59.512Z",
+        "lastUpdated": "2026-04-08T13:50:02.716Z",
+        "gitCommitSha": "fa1e131a014576ff8f8919f191a7ca8d8fded39b"
+      }
+    ],
+    "obsidian-visual-skills@axton-obsidian-visual-skills": [
+      {
+        "scope": "local",
+        "projectPath": "D:\\GongXL\\Github\\notes_vault",
+        "installPath": "C:\\Users\\GongXL\\.claude\\plugins\\cache\\axton-obsidian-visual-skills\\obsidian-visual-skills\\1265976d9746",
+        "version": "1265976d9746",
+        "installedAt": "2026-04-03T15:18:00.561Z",
+        "lastUpdated": "2026-04-08T13:50:02.716Z",
+        "gitCommitSha": "1265976d9746a84858b4b7b42fb86a215aa93de9"
+      },
+      {
+        "scope": "local",
+        "projectPath": "D:\\GongXL\\Github\\notes_vault",
+        "installPath": "C:\\Users\\GongXL\\.claude\\plugins\\cache\\axton-obsidian-visual-skills\\obsidian-visual-skills\\1265976d9746",
+        "version": "1265976d9746",
+        "installedAt": "2026-04-07T14:17:20.083Z",
+        "lastUpdated": "2026-04-07T14:17:20.083Z",
+        "gitCommitSha": "1265976d9746a84858b4b7b42fb86a215aa93de9"
+      },
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\GongXL\\.claude\\plugins\\cache\\axton-obsidian-visual-skills\\obsidian-visual-skills\\1265976d9746",
+        "version": "1265976d9746",
+        "installedAt": "2026-04-08T11:37:21.828Z",
+        "lastUpdated": "2026-04-08T11:37:21.828Z",
+        "gitCommitSha": "1265976d9746a84858b4b7b42fb86a215aa93de9"
+      }
+    ],
+    "explanatory-output-style@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\GongXL\\.claude\\plugins\\cache\\claude-plugins-official\\explanatory-output-style\\1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-04-07T16:36:36.109Z",
+        "lastUpdated": "2026-04-07T16:36:36.109Z",
+        "gitCommitSha": "183a6ca35d5f6b4ba99bf89777bd0aa432fa3d2e"
+      }
+    ],
+    "serena@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\GongXL\\.claude\\plugins\\cache\\claude-plugins-official\\serena\\unknown",
+        "version": "unknown",
+        "installedAt": "2026-04-08T11:48:53.439Z",
+        "lastUpdated": "2026-04-26T09:23:00.524Z",
+        "gitCommitSha": "183a6ca35d5f6b4ba99bf89777bd0aa432fa3d2e"
+      }
+    ],
+    "learning-output-style@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\GongXL\\.claude\\plugins\\cache\\claude-plugins-official\\learning-output-style\\1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-04-08T11:48:53.487Z",
+        "lastUpdated": "2026-04-08T11:48:53.487Z",
+        "gitCommitSha": "183a6ca35d5f6b4ba99bf89777bd0aa432fa3d2e"
+      }
+    ],
+    "remember@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\GongXL\\.claude\\plugins\\cache\\claude-plugins-official\\remember\\0.5.0",
+        "version": "0.5.0",
+        "installedAt": "2026-04-08T11:48:57.347Z",
+        "lastUpdated": "2026-04-26T09:23:03.315Z",
+        "gitCommitSha": "779ab61d8d412230eeec1840b8ca104bebea4358"
+      }
+    ],
+    "claude-scientific-writer@claude-scientific-writer": [
+      {
+        "scope": "project",
+        "projectPath": "D:\\GongXL\\Github\\notes_vault",
+        "installPath": "C:\\Users\\GongXL\\.claude\\plugins\\cache\\claude-scientific-writer\\claude-scientific-writer\\2f80d2aed0e6",
+        "version": "2f80d2aed0e6",
+        "installedAt": "2026-04-08T12:12:36.711Z",
+        "lastUpdated": "2026-04-08T13:50:02.716Z",
+        "gitCommitSha": "2f80d2aed0e6b555944ec528674148fb0d7c39fc"
+      }
+    ],
+    "github@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\GongXL\\.claude\\plugins\\cache\\claude-plugins-official\\github\\unknown",
+        "version": "unknown",
+        "installedAt": "2026-04-08T13:50:02.716Z",
+        "lastUpdated": "2026-04-26T09:23:00.526Z",
+        "gitCommitSha": "183a6ca35d5f6b4ba99bf89777bd0aa432fa3d2e"
+      }
+    ]
+  }
+}
