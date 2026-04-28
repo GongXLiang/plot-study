@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "GRAPH_REPORT",
+      "path": "graphify-out/GRAPH_REPORT.md"
+    },
+    {
+      "basename": "CODEOFCONDUCT",
+      "path": "raw/UltraPlot/CODEOFCONDUCT.md"
+    },
+    {
+      "basename": "UltraPlotLogo",
+      "path": "raw/UltraPlot/UltraPlotLogo.svg"
+    },
+    {
+      "basename": "ultraplot_readthedocs_io_en_latest_api_html",
+      "path": "raw/ultraplot_readthedocs_io_en_latest_api_html.md"
+    },
+    {
       "basename": "_CartopyFormatter",
       "path": "graphify-out/wiki/_CartopyFormatter.md"
     },
     {
       "basename": "Core_API_&_Entry_Points",
       "path": "graphify-out/wiki/Core_API_&_Entry_Points.md"
-    },
-    {
-      "basename": "GRAPH_REPORT",
-      "path": "graphify-out/GRAPH_REPORT.md"
     },
     {
       "basename": "Colormap_&_Color_Database",
@@ -187,18 +199,6 @@
     {
       "basename": "AW Heat Transport and Modeling",
       "path": "graphify-out/wiki/AW Heat Transport and Modeling.md"
-    },
-    {
-      "basename": "Arctic Overturning and Sea Ice Feedback",
-      "path": "graphify-out/wiki/Arctic Overturning and Sea Ice Feedback.md"
-    },
-    {
-      "basename": "Arctic Oscillation and AMO Variability",
-      "path": "graphify-out/wiki/Arctic Oscillation and AMO Variability.md"
-    },
-    {
-      "basename": "Intensification of the Atlantic Water Supply to the Arctic Ocean Through Fram Strait Induced by Arctic Sea Ice Decline",
-      "path": "raw/reference/Intensification of the Atlantic Water Supply to the Arctic Ocean Through Fram Strait Induced by Arctic Sea Ice Decline.md"
     }
   ],
   "omittedPaths": [],
