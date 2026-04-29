@@ -6,10 +6,12 @@
         "conversationId": "conv-1777200345180-lf5zqi5k1"
       },
       {
+        "draftModel": "haiku",
         "tabId": "tab-1776682746252-7opao7p",
         "conversationId": null
       },
       {
+        "draftModel": "haiku",
         "tabId": "tab-1776930470958-ztvh4sv",
         "conversationId": null
       }
